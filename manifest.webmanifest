@@ -1,0 +1,14 @@
+{
+  "name": "CocineRoy",
+  "short_name": "CocineRoy",
+  "description": "Tu menú semanal y lista de la compra, privado.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

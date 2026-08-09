@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="CocineRoy" />
+<meta name="theme-color" content="#111111" />
+<meta name="robots" content="noindex, nofollow" />
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="apple-touch-icon" href="icon.svg" />
+<link rel="icon" type="image/svg+xml" href="icon.svg" />
+<title>CocineRoy · Tu menú y lista de la compra</title>
+<style>
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; padding: 0; background: #fff; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; color: #111; }
+  #root { max-width: 480px; margin: 0 auto; min-height: 100vh; }
+  input:focus, button:focus { outline: none; }
+  .c2:active { transform: scale(0.99); }
+  img { display: block; }
+  ::-webkit-scrollbar { display: none; }
+</style>
+</head>
+<body>
+<div id="root">
+  <div style="display:flex;min-height:100vh;align-items:center;justify-content:center;color:#111">Cargando… 🍳</div>
+</div>
+
+<!-- React por CDN. Si no hay internet, se usa el modo local con recetas embebidas. -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
