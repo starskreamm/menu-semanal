@@ -118,10 +118,27 @@ function App(){
   var tb=useState("inicio"), tab=tb[0], setTab=tb[1];
   function setPrefs(p){ LS.set("prefs",p); setPrefsRaw(p); }
 
+  // Parseo tolerante: si el array completo falla por alguna receta corrupta,
+  // intenta receta por receta y descarta solo las rotas.
+  function parseTolerante(texto){
+    try { return JSON.parse(texto); } catch(e){}
+    var out=[]; var s=texto.trim();
+    if(s.charAt(0)==="[") s=s.slice(1);
+    if(s.charAt(s.length-1)==="]") s=s.slice(0,-1);
+    // Cada receta empieza por {"id": ... Cortamos por ese patrón.
+    var partes=s.split(/(?=\{"id":")/);
+    for(var i=0;i<partes.length;i++){
+      var p=partes[i].trim().replace(/,\s*$/,"");
+      if(!p) continue;
+      try { out.push(JSON.parse(p)); } catch(err){ /* receta corrupta: se descarta */ }
+    }
+    return out;
+  }
+
   useEffect(function(){
     if(typeof window.RECETAS_EMBED!=="undefined"){ setRecetas(window.RECETAS_EMBED.map(mapReceta)); return; }
-    fetch("recetas.json").then(function(r){ if(!r.ok)throw new Error("No se pudo cargar recetas.json"); return r.json(); })
-      .then(function(d){ setRecetas(d.map(mapReceta)); })
+    fetch("recetas.json").then(function(r){ if(!r.ok)throw new Error("No se pudo cargar recetas.json"); return r.text(); })
+      .then(function(t){ var arr=parseTolerante(t); if(!arr.length)throw new Error("recetas.json vacío o ilegible"); setRecetas(arr.map(mapReceta)); })
       .catch(function(e){ setError(e.message); });
   },[]);
 
