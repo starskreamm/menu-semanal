@@ -218,6 +218,24 @@ function Main(props){
   useEffect(function(){ if(plan)LS.set("plan",plan.map(function(r){return r.id;})); },[plan]);
   useEffect(function(){ var ids=LS.get("plan",null); if(ids&&!plan){ var rs=ids.map(function(id){return recetas.filter(function(r){return r.id===id;})[0];}).filter(Boolean); if(rs.length)setPlan(rs);} },[]);
 
+  // Importar guardadas iniciales (una sola vez): pre-marca los favoritos de guardadas.json.
+  useEffect(function(){
+    if(!recetas || !recetas.length) return;
+    if(LS.get("fav_importadas",false)) return;   // ya se hizo antes; respetar cambios del usuario
+    fetch("guardadas.json?v="+Date.now()).then(function(r){ return r.ok?r.json():[]; }).then(function(ids){
+      console.log("[CocineRoy] guardadas.json:", ids.length, "ids");
+      if(!ids||!ids.length){ LS.set("fav_importadas",true); return; }
+      var validos={}; recetas.forEach(function(r){ validos[String(r.id)]=true; });
+      var pre=ids.filter(function(id){ return validos[String(id)]; });
+      console.log("[CocineRoy] guardadas que existen en el catálogo:", pre.length);
+      var actual=LS.get("fav",[]);
+      var union={}; actual.concat(pre).forEach(function(id){ union[String(id)]=true; });
+      var merged=Object.keys(union);
+      setFav(merged); LS.set("fav",merged); LS.set("fav_importadas",true);
+      console.log("[CocineRoy] favoritos marcados:", merged.length);
+    }).catch(function(e){ console.log("[CocineRoy] error importando:", e.message); LS.set("fav_importadas",true); });
+  },[recetas]);
+
   function toggleFav(id){ var i=fav.indexOf(id); var n=fav.slice(); if(i>=0)n.splice(i,1); else n.push(id); setFav(n); }
 
   var compatibles=useMemo(function(){ return recetas.filter(function(r){
