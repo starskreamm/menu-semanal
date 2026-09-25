@@ -1,0 +1,3232 @@
+[
+ {
+  "id": "daa122dc-34f1-4262-b4ac-628bef7aef8c",
+  "nombre": "Albóndigas de pavo picado en salsa de tomate",
+  "fichero": "Albóndigas de pavo picado en salsa de tomate.webp"
+ },
+ {
+  "id": "db542f4f-8b8f-4397-bf01-198aff05356f",
+  "nombre": "Arroz a Banda",
+  "fichero": "Arroz a Banda.webp"
+ },
+ {
+  "id": "fd62af76-3ea0-4291-8f9b-cc83e2119c3e",
+  "nombre": "Arroz con atún y guisantes",
+  "fichero": "Arroz con atún y guisantes.webp"
+ },
+ {
+  "id": "758fd132-9481-45f9-94aa-e8863b7b6269",
+  "nombre": "Arroz con atún y maíz",
+  "fichero": "Arroz con atún y maíz.webp"
+ },
+ {
+  "id": "c79c4ccb-8605-483b-835d-641fd4266d0b",
+  "nombre": "Arroz con atún y tomate",
+  "fichero": "Arroz con atún y tomate.webp"
+ },
+ {
+  "id": "e431c432-eadb-44bd-9f68-ee14077d38b3",
+  "nombre": "Arroz con Bacalao",
+  "fichero": "Arroz con Bacalao.webp"
+ },
+ {
+  "id": "d1103a74-790c-4be2-a03d-04b054fd9de8",
+  "nombre": "Arroz con gambas y guisantes",
+  "fichero": "Arroz con gambas y guisantes.webp"
+ },
+ {
+  "id": "3cba5d54-65fe-473b-9048-11c8498e8ebd",
+  "nombre": "Arroz con gambas y pimiento rojo",
+  "fichero": "Arroz con gambas y pimiento rojo.webp"
+ },
+ {
+  "id": "bf1740d4-110a-4bda-8111-16f0361287cc",
+  "nombre": "Arroz con huevo, atún y guisantes",
+  "fichero": "Arroz con huevo, atún y guisantes.webp"
+ },
+ {
+  "id": "2d295991-b433-4820-8d8e-cebc5c225bc8",
+  "nombre": "Arroz con leche de coco y gambas",
+  "fichero": "Arroz con leche de coco y gambas.webp"
+ },
+ {
+  "id": "facccd8e-8fe9-4854-b839-0e1f13ebacf4",
+  "nombre": "Arroz con leche y canela al microondas",
+  "fichero": "Arroz con leche y canela al microondas.webp"
+ },
+ {
+  "id": "1582cb26-cf9d-43a7-babc-9aa8cdcd6e72",
+  "nombre": "Arroz con pechuga de pollo y brócoli",
+  "fichero": "Arroz con pechuga de pollo y brócoli.webp"
+ },
+ {
+  "id": "af11f9ac-7a9e-41c1-a2c9-c50a449a57e0",
+  "nombre": "Arroz con pollo a la naranja y brócoli",
+  "fichero": "Arroz con pollo a la naranja y brócoli.webp"
+ },
+ {
+  "id": "84f795be-5370-454b-ae1d-9f9b1bb6bfea",
+  "nombre": "Arroz con pollo y espinacas al limón",
+  "fichero": "Arroz con pollo y espinacas al limón.webp"
+ },
+ {
+  "id": "efaa861b-7373-46c5-9c5b-d28730dbc8d5",
+  "nombre": "Arroz con pollo y guisantes en una olla",
+  "fichero": "Arroz con pollo y guisantes en una olla.webp"
+ },
+ {
+  "id": "8a078ddf-d8e4-4cd8-b5c2-7ee145474f0a",
+  "nombre": "Arroz con ternera picada y champiñones",
+  "fichero": "Arroz con ternera picada y champiñones.webp"
+ },
+ {
+  "id": "d7fab3c5-649d-416a-bf57-ca3f3b714bdf",
+  "nombre": "Arroz Frito con Huevo al Estilo Chino",
+  "fichero": "Arroz Frito con Huevo al Estilo Chino.webp"
+ },
+ {
+  "id": "fcbfa97f-75b5-46a2-bfdd-d4679c1438a9",
+  "nombre": "Arroz frito con pollo y huevo",
+  "fichero": "Arroz frito con pollo y huevo.webp"
+ },
+ {
+  "id": "699fe86a-1951-465c-b352-2335899c1a89",
+  "nombre": "Arroz meloso con merluza y guisantes",
+  "fichero": "Arroz meloso con merluza y guisantes.webp"
+ },
+ {
+  "id": "0c4f3a69-99f6-410b-a3b8-cf9a0f9b5f22",
+  "nombre": "Arroz Salteado Chino",
+  "fichero": "Arroz Salteado Chino.webp"
+ },
+ {
+  "id": "2dd5ad8a-248a-48fb-ac05-65602dd59c7d",
+  "nombre": "Arroz salteado con pavo picado y verduras",
+  "fichero": "Arroz salteado con pavo picado y verduras.webp"
+ },
+ {
+  "id": "a1acb306-e1ec-4b8d-81ce-56ac913edcd3",
+  "nombre": "Arroz salteado con verduras y huevo",
+  "fichero": "Arroz salteado con verduras y huevo.webp"
+ },
+ {
+  "id": "6f6208b0-2024-413e-9494-0bf33e0de176",
+  "nombre": "Arroz tres delicias casero",
+  "fichero": "Arroz tres delicias casero.webp"
+ },
+ {
+  "id": "0f845843-4a8c-41e9-b40e-c7d0e49b0fbc",
+  "nombre": "Arroz tres delicias con huevo",
+  "fichero": "Arroz tres delicias con huevo.webp"
+ },
+ {
+  "id": "23c22c6e-9a8e-48d9-ab51-7decde7cc93c",
+  "nombre": "Atún a la Siciliana",
+  "fichero": "Atún a la Siciliana.webp"
+ },
+ {
+  "id": "1d76cf83-a040-4eb8-979b-4312135e04f7",
+  "nombre": "Atún con Salsa de Soja y Wasabi",
+  "fichero": "Atún con Salsa de Soja y Wasabi.webp"
+ },
+ {
+  "id": "167907bd-6138-4fc0-b351-d6499f949437",
+  "nombre": "Avena instantánea con nueces y canela",
+  "fichero": "Avena instantánea con nueces y canela.webp"
+ },
+ {
+  "id": "18063fa2-64c4-46f6-92de-5419c323b941",
+  "nombre": "Batch Cooking de Pollo con Verduras para la Semana",
+  "fichero": "Batch Cooking de Pollo con Verduras para la Semana.webp"
+ },
+ {
+  "id": "e81bd32d-f125-49b6-b1ba-17091ec366ff",
+  "nombre": "Batch de Albóndigas para Congelar",
+  "fichero": "Batch de Albóndigas para Congelar.webp"
+ },
+ {
+  "id": "930dfbf6-b8a3-4843-886b-1ee18ba4bf55",
+  "nombre": "Batido de fresa y plátano con yogur",
+  "fichero": "Batido de fresa y plátano con yogur.webp"
+ },
+ {
+  "id": "8966dc7e-cc3e-489a-83fa-e808b34992d5",
+  "nombre": "Batido de frutos rojos con yogur",
+  "fichero": "Batido de frutos rojos con yogur.webp"
+ },
+ {
+  "id": "5e1e41ad-86db-49d9-a75f-f96a5af9637f",
+  "nombre": "Batido de kiwi y manzana con leche de avena",
+  "fichero": "Batido de kiwi y manzana con leche de avena.webp"
+ },
+ {
+  "id": "2e2919a1-dfa3-4a1d-aaff-607af0883890",
+  "nombre": "Batido de kiwi y plátano con yogur",
+  "fichero": "Batido de kiwi y plátano con yogur.webp"
+ },
+ {
+  "id": "8e853593-6e32-4f26-8439-4d8601419373",
+  "nombre": "Batido de naranja y plátano con leche de avena",
+  "fichero": "Batido de naranja y plátano con leche de avena.webp"
+ },
+ {
+  "id": "1d8920ae-d46f-41e6-b387-6c1545f13078",
+  "nombre": "Batido de plátano y cacao con leche",
+  "fichero": "Batido de plátano y cacao con leche.webp"
+ },
+ {
+  "id": "d03a819d-2fff-4d18-bc90-0538c148e723",
+  "nombre": "Batido de plátano y cacao con leche de avena",
+  "fichero": "Batido de plátano y cacao con leche de avena.webp"
+ },
+ {
+  "id": "36ecfe6d-314c-439c-9cd4-c8e7df3b397a",
+  "nombre": "Batido de plátano y fresa con leche",
+  "fichero": "Batido de plátano y fresa con leche.webp"
+ },
+ {
+  "id": "7385fb26-cf53-4638-a120-3d458f10ab7d",
+  "nombre": "Batido de plátano y fresa con leche de avena",
+  "fichero": "Batido de plátano y fresa con leche de avena.webp"
+ },
+ {
+  "id": "4e440a01-7532-4e47-b2c9-23cada25bd27",
+  "nombre": "Batido de plátano y pera con leche",
+  "fichero": "Batido de plátano y pera con leche.webp"
+ },
+ {
+  "id": "4447a617-3451-49da-a9fd-3c269322e78a",
+  "nombre": "Batido de verde de espinacas y plátano con leche de avena",
+  "fichero": "Batido de verde de espinacas y plátano con leche de avena.webp"
+ },
+ {
+  "id": "705b8102-aae8-4503-90fa-580f79100d52",
+  "nombre": "Batido Proteico de Plátano y Mantequilla de Cacahuete",
+  "fichero": "Batido Proteico de Plátano y Mantequilla de Cacahuete.webp"
+ },
+ {
+  "id": "01fd7b99-e543-42f4-8ea1-0f8c204fa66b",
+  "nombre": "Batido verde de espinacas, plátano y leche",
+  "fichero": "Batido verde de espinacas, plátano y leche.webp"
+ },
+ {
+  "id": "25d070e9-f810-4e5c-85d2-1a3a481a0b16",
+  "nombre": "Bocadillo de pan de cristal con aguacate y pavo",
+  "fichero": "Bocadillo de pan de cristal con aguacate y pavo.webp"
+ },
+ {
+  "id": "29b4e27a-3c90-47dc-8216-1058116f11be",
+  "nombre": "Bocadillo de pan integral con jamón cocido y queso",
+  "fichero": "Bocadillo de pan integral con jamón cocido y queso.webp"
+ },
+ {
+  "id": "1e9d4913-8e2f-4af8-9394-24c7f8e53e6a",
+  "nombre": "Bocadillo de pan integral con tortilla francesa",
+  "fichero": "Bocadillo de pan integral con tortilla francesa.webp"
+ },
+ {
+  "id": "b6e124d3-8f07-4e37-85f4-3413f6a5febc",
+  "nombre": "Bocadillo de Pechuga a la Plancha",
+  "fichero": "Bocadillo de Pechuga a la Plancha.webp"
+ },
+ {
+  "id": "bd57c6e0-f63a-4ff4-913b-dfe745cdae0b",
+  "nombre": "Bocadillo de Pollo Asado",
+  "fichero": "Bocadillo de Pollo Asado.webp"
+ },
+ {
+  "id": "67e2cbdd-cfef-4d39-a98c-20692df5d619",
+  "nombre": "Bowl de arroz con aguacate y tomate",
+  "fichero": "Bowl de arroz con aguacate y tomate.webp"
+ },
+ {
+  "id": "14d05b23-dff9-4ea1-9b51-9e8b6438174d",
+  "nombre": "Bowl de arroz con atún y mayonesa de soja",
+  "fichero": "Bowl de arroz con atún y mayonesa de soja.webp"
+ },
+ {
+  "id": "b997280e-d154-457c-a492-8a83a63ede24",
+  "nombre": "Bowl de arroz con huevo y verduras salteadas",
+  "fichero": "Bowl de arroz con huevo y verduras salteadas.webp"
+ },
+ {
+  "id": "3f2a7d36-8aa3-4113-8d2e-7addb269a0d1",
+  "nombre": "Bowl de arroz con salmon y aguacate",
+  "fichero": "Bowl de arroz con salmon y aguacate.webp"
+ },
+ {
+  "id": "e5737241-1065-4f4e-9f3a-1ecb7fcf66ef",
+  "nombre": "Bowl de arroz integral con pollo y aguacate",
+  "fichero": "Bowl de arroz integral con pollo y aguacate.webp"
+ },
+ {
+  "id": "64e3b3fc-1026-4a63-b43d-c2e2f8b63fc2",
+  "nombre": "Bowl de bulgur con espárragos y huevo poché",
+  "fichero": "Bowl de bulgur con espárragos y huevo poché.webp"
+ },
+ {
+  "id": "45da3159-4314-4c33-baf3-8c8a0ef858f3",
+  "nombre": "Bowl de Cereales Integrales con Toppings",
+  "fichero": "Bowl de Cereales Integrales con Toppings.webp"
+ },
+ {
+  "id": "21eb0383-c7cb-4658-ba34-b178a1099f2c",
+  "nombre": "Bowl de Edamame y Arroz Estilo Japonés",
+  "fichero": "Bowl de Edamame y Arroz Estilo Japonés.webp"
+ },
+ {
+  "id": "797fc447-fb6b-407b-b794-909860c28805",
+  "nombre": "Bowl de Pollo con Arroz",
+  "fichero": "Bowl de Pollo con Arroz.webp"
+ },
+ {
+  "id": "e71c74fb-ff60-4d33-8b61-4da2dfd62623",
+  "nombre": "Bowl de pollo, arroz y aguacate",
+  "fichero": "Bowl de pollo, arroz y aguacate.webp"
+ },
+ {
+  "id": "d6e6a2ea-1203-46c4-ab08-dc8449d997aa",
+  "nombre": "Brócoli salteado con ajo y huevo revuelto",
+  "fichero": "Brócoli salteado con ajo y huevo revuelto.webp"
+ },
+ {
+  "id": "8a0af3a6-ce70-48f4-b4c5-87ef29f5478a",
+  "nombre": "Bulgur con pavo y verduras al curry",
+  "fichero": "Bulgur con pavo y verduras al curry.webp"
+ },
+ {
+  "id": "180e2253-4c2e-4ad0-8597-385d41d23442",
+  "nombre": "Burger Casera de Ternera con Cheddar",
+  "fichero": "Burger Casera de Ternera con Cheddar.webp"
+ },
+ {
+  "id": "8ef1ed7e-e2c6-4d72-a326-da3e9eba63ad",
+  "nombre": "Butter Chicken Suave",
+  "fichero": "Butter Chicken Suave.webp"
+ },
+ {
+  "id": "194c8f24-1057-449d-b162-76f27641ea65",
+  "nombre": "Caldo de Verduras Casero",
+  "fichero": "Caldo de Verduras Casero.webp"
+ },
+ {
+  "id": "1afb6df3-79fc-4efc-b687-4def06fd0eec",
+  "nombre": "Carne Mechada",
+  "fichero": "Carne Mechada.webp"
+ },
+ {
+  "id": "11ea42cf-0b1d-4013-baf4-87c862db9003",
+  "nombre": "Cerdo con Verduras al Wok",
+  "fichero": "Cerdo con Verduras al Wok.webp"
+ },
+ {
+  "id": "271ac2e8-57da-48f0-8fd3-337016880416",
+  "nombre": "Cerdo Teriyaki",
+  "fichero": "Cerdo Teriyaki.webp"
+ },
+ {
+  "id": "ead34370-76e1-4f3b-b890-9e28985d531f",
+  "nombre": "Champiñones rellenos de atún al horno",
+  "fichero": "Champiñones rellenos de atún al horno.webp"
+ },
+ {
+  "id": "7c4851ce-125a-406c-99a2-f2e088ec3187",
+  "nombre": "Chili con Carne",
+  "fichero": "Chili con Carne.webp"
+ },
+ {
+  "id": "d40416d2-9f02-4af4-8003-8b75c793909c",
+  "nombre": "Cinta de lomo rellena de espinacas",
+  "fichero": "Cinta de lomo rellena de espinacas.webp"
+ },
+ {
+  "id": "cb55a78a-403e-4463-a655-fc35007ef47e",
+  "nombre": "Coca Mallorquina de Espinacas",
+  "fichero": "Coca Mallorquina de Espinacas.webp"
+ },
+ {
+  "id": "883f0f87-ca65-4910-8523-60c5b139ca21",
+  "nombre": "Cocido madrileño simplificado",
+  "fichero": "Cocido madrileño simplificado.webp"
+ },
+ {
+  "id": "e94b1932-d753-447a-a9b3-91d58b60028e",
+  "nombre": "Cordero en Pepitoria",
+  "fichero": "Cordero en Pepitoria.webp"
+ },
+ {
+  "id": "6a009293-ea82-4914-9023-7b156d574b33",
+  "nombre": "Crema de Alcachofas con Limón",
+  "fichero": "Crema de Alcachofas con Limón.webp"
+ },
+ {
+  "id": "c5c6086a-9592-4e39-ade9-aa6b24b8eb08",
+  "nombre": "Crema de Champiñones al Ajo",
+  "fichero": "Crema de Champiñones al Ajo.webp"
+ },
+ {
+  "id": "e00aa8c8-8a94-46e4-8214-bd872ee665e6",
+  "nombre": "Crema de Espinacas con Queso",
+  "fichero": "Crema de Espinacas con Queso.webp"
+ },
+ {
+  "id": "03a28a9e-8bba-44fa-ac6c-3d6fdea1b76f",
+  "nombre": "Crema de Guisantes con Menta",
+  "fichero": "Crema de Guisantes con Menta.webp"
+ },
+ {
+  "id": "e241271b-302e-4158-a0bc-2f367daad552",
+  "nombre": "Crema de Hinojo con Anís",
+  "fichero": "Crema de Hinojo con Anís.webp"
+ },
+ {
+  "id": "095eb254-1b1a-4be4-8dea-049162f11203",
+  "nombre": "Croque Monsieur en Sandwichera",
+  "fichero": "Croque Monsieur en Sandwichera.webp"
+ },
+ {
+  "id": "3f47a9b4-dcd0-4ffc-892e-89fd578a92fa",
+  "nombre": "Croquetas de jamón ibérico caseras",
+  "fichero": "Croquetas de jamón ibérico caseras.webp"
+ },
+ {
+  "id": "69744bc4-dfdb-46f5-8f1a-569d51ae1191",
+  "nombre": "Croquetas de Queso y Champiñones",
+  "fichero": "Croquetas de Queso y Champiñones.webp"
+ },
+ {
+  "id": "1e60de75-68ce-4aee-9281-4256fd363c5d",
+  "nombre": "Crêpes de Espinacas y Ricotta",
+  "fichero": "Crêpes de Espinacas y Ricotta.webp"
+ },
+ {
+  "id": "8c1558d7-f6d2-49d6-902c-653efb41fba7",
+  "nombre": "Curry rápido de garbanzos con espinacas",
+  "fichero": "Curry rápido de garbanzos con espinacas.webp"
+ },
+ {
+  "id": "1a57f360-bbc3-4449-ac7f-bd1a234ab9f2",
+  "nombre": "Enchiladas con Salsa Roja",
+  "fichero": "Enchiladas con Salsa Roja.webp"
+ },
+ {
+  "id": "df95dcd6-0dd3-4e36-be48-c5c69cb1253e",
+  "nombre": "Ensalada César de pollo",
+  "fichero": "Ensalada César de pollo.webp"
+ },
+ {
+  "id": "4a3f1735-3029-4e1d-82b5-dfd4e956aabf",
+  "nombre": "Ensalada de Aguacate y Gambas",
+  "fichero": "Ensalada de Aguacate y Gambas.webp"
+ },
+ {
+  "id": "48e5f789-45b2-4359-b95f-877638939f2f",
+  "nombre": "Ensalada de arroz con pollo, maíz y huevo",
+  "fichero": "Ensalada de arroz con pollo, maíz y huevo.webp"
+ },
+ {
+  "id": "8e7a454f-8146-4d34-bcec-975a70b88638",
+  "nombre": "Ensalada de atun con garbanzos",
+  "fichero": "Ensalada de atun con garbanzos.webp"
+ },
+ {
+  "id": "4fa0e42b-402f-4bc1-967d-b2efeed2a50c",
+  "nombre": "Ensalada de Endibias y Roquefort",
+  "fichero": "Ensalada de Endibias y Roquefort.webp"
+ },
+ {
+  "id": "5faf71fe-19ae-47a5-9801-2f9fa1521a4a",
+  "nombre": "Ensalada de Espinacas y Frutos Secos",
+  "fichero": "Ensalada de Espinacas y Frutos Secos.webp"
+ },
+ {
+  "id": "d624014d-32b8-422c-8fff-ea9fd1f109ff",
+  "nombre": "Ensalada de gambas y aguacate",
+  "fichero": "Ensalada de gambas y aguacate.webp"
+ },
+ {
+  "id": "ec5e8e7e-89c1-4f5c-b124-c4922ef7c237",
+  "nombre": "Ensalada de garbanzos con pimiento asado y queso feta",
+  "fichero": "Ensalada de garbanzos con pimiento asado y queso feta.webp"
+ },
+ {
+  "id": "7f4e5d18-44f2-4e5f-b2db-3ecc9eb4b53e",
+  "nombre": "Ensalada de Judías Verdes y Jamón",
+  "fichero": "Ensalada de Judías Verdes y Jamón.webp"
+ },
+ {
+  "id": "fe63c96f-4b87-4524-8d31-6211f7bd268a",
+  "nombre": "Ensalada de langostinos con pimiento y maíz",
+  "fichero": "Ensalada de langostinos con pimiento y maíz.webp"
+ },
+ {
+  "id": "518229c3-526a-4383-b040-218c46cd5086",
+  "nombre": "Ensalada de pasta con atún y maíz",
+  "fichero": "Ensalada de pasta con atún y maíz.webp"
+ },
+ {
+  "id": "6b208a5e-c4b0-42ba-95c7-41acb3337b00",
+  "nombre": "Ensalada de pavo con maíz y pimiento",
+  "fichero": "Ensalada de pavo con maíz y pimiento.webp"
+ },
+ {
+  "id": "327d8e88-8d6b-4349-ac57-c794d76ae860",
+  "nombre": "Ensalada de Pepino y Yogur",
+  "fichero": "Ensalada de Pepino y Yogur.webp"
+ },
+ {
+  "id": "ce1333ec-bf40-4135-96bc-33b82d2c80c7",
+  "nombre": "Ensalada de Pollo Caliente",
+  "fichero": "Ensalada de Pollo Caliente.webp"
+ },
+ {
+  "id": "8bb7a5a6-561e-4872-9e9b-29317bcdcc09",
+  "nombre": "Ensalada de pollo con maíz y pimiento",
+  "fichero": "Ensalada de pollo con maíz y pimiento.webp"
+ },
+ {
+  "id": "822f4cd7-adfd-4ad1-8a63-25aa7b2e6edb",
+  "nombre": "Ensalada de pulpo y garbanzos",
+  "fichero": "Ensalada de pulpo y garbanzos.webp"
+ },
+ {
+  "id": "75b4a54d-4d6d-4713-8e5e-df77892faa15",
+  "nombre": "Ensalada de quinoa con aguacate y tomates cherry",
+  "fichero": "Ensalada de quinoa con aguacate y tomates cherry.webp"
+ },
+ {
+  "id": "812829bf-95a9-4d55-b0fc-fca6ceafd9c8",
+  "nombre": "Ensalada de Quinoa con Verduras",
+  "fichero": "Ensalada de Quinoa con Verduras.webp"
+ },
+ {
+  "id": "6a2ca4e6-5e88-46ec-99dd-6c19a59dae2a",
+  "nombre": "Ensalada de Remolacha y Queso de Cabra",
+  "fichero": "Ensalada de Remolacha y Queso de Cabra.webp"
+ },
+ {
+  "id": "ed98e9fe-7c35-45be-9f6f-44af90e60882",
+  "nombre": "Ensalada de Salmón Ahumado y Espárragos",
+  "fichero": "Ensalada de Salmón Ahumado y Espárragos.webp"
+ },
+ {
+  "id": "da32f854-ac25-405f-835a-f1be740102f6",
+  "nombre": "Ensalada de tempeh con pimiento y maíz",
+  "fichero": "Ensalada de tempeh con pimiento y maíz.webp"
+ },
+ {
+  "id": "2790b9ec-d70f-4cad-9a36-779d52b6c614",
+  "nombre": "Ensalada Griega Clásica",
+  "fichero": "Ensalada Griega Clásica.webp"
+ },
+ {
+  "id": "59bb90d0-8d20-4cd7-b68b-d28b82eb2acb",
+  "nombre": "Ensalada griega con pollo a la plancha",
+  "fichero": "Ensalada griega con pollo a la plancha.webp"
+ },
+ {
+  "id": "468a153f-56e5-4d0a-bf8a-7231667fd7c3",
+  "nombre": "Ensalada templada de lentejas y salmón",
+  "fichero": "Ensalada templada de lentejas y salmón.webp"
+ },
+ {
+  "id": "746f4c28-a3cd-4e17-91c9-d074cdfce7fe",
+  "nombre": "Espaguetis al ajillo con aceite y guindilla",
+  "fichero": "Espaguetis al ajillo con aceite y guindilla.webp"
+ },
+ {
+  "id": "6b9c5928-fedc-4b74-b38c-0d8c06b0e905",
+  "nombre": "Espaguetis Carbonara",
+  "fichero": "Espaguetis Carbonara.webp"
+ },
+ {
+  "id": "4b1d2c56-5b6c-4478-83c1-ab9274fe527b",
+  "nombre": "Espaguetis con pavo y tomate",
+  "fichero": "Espaguetis con pavo y tomate.webp"
+ },
+ {
+  "id": "db6d4d65-7f62-4cc3-b22e-988553fd930d",
+  "nombre": "Espinacas con huevos a la sartén",
+  "fichero": "Espinacas con huevos a la sartén.webp"
+ },
+ {
+  "id": "8fc9e43f-1185-40fb-9fea-e25a6357274e",
+  "nombre": "Estofado Irlandés de Cordero",
+  "fichero": "Estofado Irlandés de Cordero.webp"
+ },
+ {
+  "id": "da9c44cc-cfce-43aa-9353-91be4c35fcb3",
+  "nombre": "Fajitas de pollo con arroz y pimientos",
+  "fichero": "Fajitas de pollo con arroz y pimientos.webp"
+ },
+ {
+  "id": "8b464f45-1c5e-40ce-9b33-8e5beb3887fd",
+  "nombre": "Fettuccine Alfredo",
+  "fichero": "Fettuccine Alfredo.webp"
+ },
+ {
+  "id": "7dd17b98-1ad6-4b1f-b3d8-2914eeb57bd4",
+  "nombre": "Fideuà",
+  "fichero": "Fideuà.webp"
+ },
+ {
+  "id": "b06da91d-1afb-42c3-be44-08de77dcf587",
+  "nombre": "Fideuà de Mariscos",
+  "fichero": "Fideuà de Mariscos.webp"
+ },
+ {
+  "id": "b0fa8298-82e7-429d-946c-7c4e351d5fda",
+  "nombre": "Filete de Ternera a la Plancha",
+  "fichero": "Filete de Ternera a la Plancha.webp"
+ },
+ {
+  "id": "b7ddbee2-b231-43de-bdb2-c31474878d71",
+  "nombre": "Filete Empanado de Ternera",
+  "fichero": "Filete Empanado de Ternera.webp"
+ },
+ {
+  "id": "e5702922-38c7-4855-87df-e78e66714ab6",
+  "nombre": "Filete picado de ternera al ajo",
+  "fichero": "Filete picado de ternera al ajo.webp"
+ },
+ {
+  "id": "1fed7016-ec41-4f35-b89a-de1d9f33d994",
+  "nombre": "Filetes de pavo con champiñones al ajo",
+  "fichero": "Filetes de pavo con champiñones al ajo.webp"
+ },
+ {
+  "id": "805cbfc7-6c3e-41cd-8764-537a9ad7be06",
+  "nombre": "Fusilli con atún, huevo y guisantes",
+  "fichero": "Fusilli con atún, huevo y guisantes.webp"
+ },
+ {
+  "id": "189d361f-858d-408f-8ff6-fb55634afbf9",
+  "nombre": "Fusilli con pavo picado y espinacas",
+  "fichero": "Fusilli con pavo picado y espinacas.webp"
+ },
+ {
+  "id": "65c87917-21cd-48cd-ba0a-80cc75621e1b",
+  "nombre": "Garbanzos crujientes al horno con pimentón",
+  "fichero": "Garbanzos crujientes al horno con pimentón.webp"
+ },
+ {
+  "id": "d6ba93c0-6b1f-4998-a0cc-0404b5685ecb",
+  "nombre": "Garbanzos Especiados con Espinacas",
+  "fichero": "Garbanzos Especiados con Espinacas.webp"
+ },
+ {
+  "id": "5f478b45-1bba-4770-a685-743813482511",
+  "nombre": "Garbanzos guisados con arroz y huevo",
+  "fichero": "Garbanzos guisados con arroz y huevo.webp"
+ },
+ {
+  "id": "95f6c41a-37ac-4afc-8b68-c270fe62101c",
+  "nombre": "Garbanzos salteados con espinacas y ajo",
+  "fichero": "Garbanzos salteados con espinacas y ajo.webp"
+ },
+ {
+  "id": "574e7ee9-92c5-4b51-968d-2c5f5f829ba9",
+  "nombre": "Gazpacho Verde de Pepino",
+  "fichero": "Gazpacho Verde de Pepino.webp"
+ },
+ {
+  "id": "4267d8fd-e659-429d-8147-93943a82c15d",
+  "nombre": "Gofres de avena con arándanos",
+  "fichero": "Gofres de avena con arándanos.webp"
+ },
+ {
+  "id": "9c665dd8-bbcc-4178-b517-68abb1d44259",
+  "nombre": "Gofres de avena con crema de cacao",
+  "fichero": "Gofres de avena con crema de cacao.webp"
+ },
+ {
+  "id": "67b4d326-ab97-464c-aa96-3de009e0edf0",
+  "nombre": "Gofres de avena con mermelada",
+  "fichero": "Gofres de avena con mermelada.webp"
+ },
+ {
+  "id": "d3c3b7ee-8bfe-4be7-b8df-9f486b2b1879",
+  "nombre": "Gofres de avena con plátano",
+  "fichero": "Gofres de avena con plátano.webp"
+ },
+ {
+  "id": "02e97bfb-df05-4399-9e01-6b8dc77b0fa7",
+  "nombre": "Granola con leche y plátano",
+  "fichero": "Granola con leche y plátano.webp"
+ },
+ {
+  "id": "b72e684a-a3ca-47d7-98e4-a3a9bbb51135",
+  "nombre": "Guisantes congelados con jamón y huevo",
+  "fichero": "Guisantes congelados con jamón y huevo.webp"
+ },
+ {
+  "id": "eb269582-6250-4911-906c-61989eac97d1",
+  "nombre": "Gyros de Pollo",
+  "fichero": "Gyros de Pollo.webp"
+ },
+ {
+  "id": "de91ec9e-4948-4da6-a7bc-98e47dbe873e",
+  "nombre": "Hamburguesa Casera de Ternera",
+  "fichero": "Hamburguesa Casera de Ternera.webp"
+ },
+ {
+  "id": "7757473e-7707-4489-bafc-f11797208e5c",
+  "nombre": "Hamburguesa de pavo casera",
+  "fichero": "Hamburguesa de pavo casera.webp"
+ },
+ {
+  "id": "f10329f6-4320-42c7-afd3-2c36dd341828",
+  "nombre": "Hamburguesas de ternera magra caseras",
+  "fichero": "Hamburguesas de ternera magra caseras.webp"
+ },
+ {
+  "id": "8a72b6c6-56fd-4d6a-8ece-5bf127a4a1a8",
+  "nombre": "Huevos al Plato con Tomate",
+  "fichero": "Huevos al Plato con Tomate.webp"
+ },
+ {
+  "id": "e43e60d3-39e6-4344-8776-150409392de9",
+  "nombre": "Huevos Benedictinos Caseros",
+  "fichero": "Huevos Benedictinos Caseros.webp"
+ },
+ {
+  "id": "bb90b1ab-3d68-4dc9-9a74-760e5c0ac628",
+  "nombre": "Huevos poché sobre cama de garbanzos con espinacas",
+  "fichero": "Huevos poché sobre cama de garbanzos con espinacas.webp"
+ },
+ {
+  "id": "bdec80d8-2e57-4818-ac61-9234537d9e0f",
+  "nombre": "Huevos revueltos con espinacas",
+  "fichero": "Huevos revueltos con espinacas.webp"
+ },
+ {
+  "id": "43dc67d5-7d38-49db-9f4c-06a63473a0bc",
+  "nombre": "Huevos revueltos con pavo",
+  "fichero": "Huevos revueltos con pavo.webp"
+ },
+ {
+  "id": "75d6729a-619f-49bc-b943-03d13deacde8",
+  "nombre": "Huevos revueltos cremosos al microondas",
+  "fichero": "Huevos revueltos cremosos al microondas.webp"
+ },
+ {
+  "id": "7c630f90-3e61-47dd-b8c7-43e578c677c0",
+  "nombre": "Huevos Revueltos en Microondas",
+  "fichero": "Huevos Revueltos en Microondas.webp"
+ },
+ {
+  "id": "3425d4aa-3249-4cc9-9cd5-1439bdc3e9d0",
+  "nombre": "Huevos rotos con chorizo y patata",
+  "fichero": "Huevos rotos con chorizo y patata.webp"
+ },
+ {
+  "id": "6966c818-5b87-40ed-ae48-d4e34d8966e7",
+  "nombre": "Huevos rotos con patata y queso",
+  "fichero": "Huevos rotos con patata y queso.webp"
+ },
+ {
+  "id": "75dd8216-8dbc-4162-8966-311250acb287",
+  "nombre": "Hummus proteico casero con tofu",
+  "fichero": "Hummus proteico casero con tofu.webp"
+ },
+ {
+  "id": "a55b6917-dbcc-4f8b-b744-70eb2ce31c38",
+  "nombre": "Judías Blancas con Chorizo",
+  "fichero": "Judías Blancas con Chorizo.webp"
+ },
+ {
+  "id": "1ea9541a-db2c-4483-b97f-e200e27437a0",
+  "nombre": "Judías verdes rehogadas con ajo y jamón",
+  "fichero": "Judías verdes rehogadas con ajo y jamón.webp"
+ },
+ {
+  "id": "c041958a-891e-48c0-a29e-dcce7fb46367",
+  "nombre": "Kimchi Fried Rice",
+  "fichero": "Kimchi Fried Rice.webp"
+ },
+ {
+  "id": "dac49d51-6cbd-4e9f-a1d8-2cd26e4305be",
+  "nombre": "Köfte Turco a la Plancha",
+  "fichero": "Köfte Turco a la Plancha.webp"
+ },
+ {
+  "id": "65fe31e8-6fca-4c85-bf64-a6c7ec7030e1",
+  "nombre": "Lentejas con arroz y pavo",
+  "fichero": "Lentejas con arroz y pavo.webp"
+ },
+ {
+  "id": "6fd074d7-7aa5-4d41-8de4-517be2231935",
+  "nombre": "Lentejas con pollo en 20 minutos",
+  "fichero": "Lentejas con pollo en 20 minutos.webp"
+ },
+ {
+  "id": "3ba523cd-d38c-4adf-8356-1a722d728792",
+  "nombre": "Lentejas con pollo y comino",
+  "fichero": "Lentejas con pollo y comino.webp"
+ },
+ {
+  "id": "de9528ed-2791-4aae-8f1b-005c1b391dec",
+  "nombre": "Lentejas Rojas con Especias Orientales",
+  "fichero": "Lentejas Rojas con Especias Orientales.webp"
+ },
+ {
+  "id": "a2f055ea-6e2d-40d3-8b79-4f5229ef4d9d",
+  "nombre": "Linguine al Pesto Rosso",
+  "fichero": "Linguine al Pesto Rosso.webp"
+ },
+ {
+  "id": "828f8b8d-2e2e-4142-8e8e-a577aa917485",
+  "nombre": "Lomo de cerdo a la plancha con pimentón",
+  "fichero": "Lomo de cerdo a la plancha con pimentón.webp"
+ },
+ {
+  "id": "d2768e07-7be7-4023-a20d-48d7fac6df10",
+  "nombre": "Lomo de cerdo al horno con miel y mostaza",
+  "fichero": "Lomo de cerdo al horno con miel y mostaza.webp"
+ },
+ {
+  "id": "49fb9953-2f4a-41c3-8805-169253019074",
+  "nombre": "Macarrones con atún, huevo y tomate",
+  "fichero": "Macarrones con atún, huevo y tomate.webp"
+ },
+ {
+  "id": "f8bfe59b-dc79-4aad-8bb2-7899282eaf74",
+  "nombre": "Macarrones con jamón y tomate",
+  "fichero": "Macarrones con jamón y tomate.webp"
+ },
+ {
+  "id": "ff0e1ee5-5969-41cb-9660-f19dc919f26d",
+  "nombre": "Macarrones con pollo al ajillo",
+  "fichero": "Macarrones con pollo al ajillo.webp"
+ },
+ {
+  "id": "306b367d-59ae-41bf-8d75-ca2e28c86e46",
+  "nombre": "Macarrones con queso fundido al microondas",
+  "fichero": "Macarrones con queso fundido al microondas.webp"
+ },
+ {
+  "id": "9ac986ef-bd3c-420e-a841-8ba630ae223a",
+  "nombre": "Macedonia de fresas, plátano y kiwi",
+  "fichero": "Macedonia de fresas, plátano y kiwi.webp"
+ },
+ {
+  "id": "e2c6a5bc-f553-4257-b81d-408ab1986905",
+  "nombre": "Macedonia de mango, plátano y arándanos",
+  "fichero": "Macedonia de mango, plátano y arándanos.webp"
+ },
+ {
+  "id": "ca7d2369-d1b8-48e3-9dea-690637df80cd",
+  "nombre": "Macedonia de naranja, kiwi y fresas",
+  "fichero": "Macedonia de naranja, kiwi y fresas.webp"
+ },
+ {
+  "id": "869fe4ea-0efa-489f-8867-9f51d592ca95",
+  "nombre": "Macedonia de plátano, manzana verde y naranja",
+  "fichero": "Macedonia de plátano, manzana verde y naranja.webp"
+ },
+ {
+  "id": "4d7ef2e8-ddfd-4600-8486-a13f99733e46",
+  "nombre": "Meal-Prep de Muffins de Avena Salados",
+  "fichero": "Meal-Prep de Muffins de Avena Salados.webp"
+ },
+ {
+  "id": "57c1b84c-3ea3-45a3-a184-feead13722e4",
+  "nombre": "Meal-Prep de Wraps de Atún",
+  "fichero": "Meal-Prep de Wraps de Atún.webp"
+ },
+ {
+  "id": "9c88ba15-381e-45df-8cfa-7bdb510f8388",
+  "nombre": "Medallones de pavo con tomate cherry",
+  "fichero": "Medallones de pavo con tomate cherry.webp"
+ },
+ {
+  "id": "b5eb3b64-3a86-400f-86ed-b84c297f7409",
+  "nombre": "Menestra de Verduras al Microondas",
+  "fichero": "Menestra de Verduras al Microondas.webp"
+ },
+ {
+  "id": "2b385b44-958b-45e0-96d2-0469741b92ff",
+  "nombre": "Merluza al Microondas con Limón",
+  "fichero": "Merluza al Microondas con Limón.webp"
+ },
+ {
+  "id": "f56b35f0-21c9-4b2c-b177-db2db128f761",
+  "nombre": "Montadito de chorizo y queso en sandwichera",
+  "fichero": "Montadito de chorizo y queso en sandwichera.webp"
+ },
+ {
+  "id": "a4396ca0-9d7b-4d6d-887a-cf9cf5e9bf9a",
+  "nombre": "Montado de Lomo en Sandwichera",
+  "fichero": "Montado de Lomo en Sandwichera.webp"
+ },
+ {
+  "id": "aa8b442c-4b4d-48a5-ae8f-fc968092f81c",
+  "nombre": "Mug cake de chocolate al microondas",
+  "fichero": "Mug cake de chocolate al microondas.webp"
+ },
+ {
+  "id": "b48971f3-2a7e-4007-a080-701c348a8980",
+  "nombre": "Mug Cake de Limón",
+  "fichero": "Mug Cake de Limón.webp"
+ },
+ {
+  "id": "e40de531-09bc-4dbd-8fa9-d5e88df5672a",
+  "nombre": "Musaka Griega",
+  "fichero": "Musaka Griega.webp"
+ },
+ {
+  "id": "2feee99e-aec9-4d30-88a3-a9db933ad220",
+  "nombre": "Nachos con Chili",
+  "fichero": "Nachos con Chili.webp"
+ },
+ {
+  "id": "a3eb8fa6-09f2-4f98-8d1a-588c6a3f8dc7",
+  "nombre": "Pad Thai de Gambas",
+  "fichero": "Pad Thai de Gambas.webp"
+ },
+ {
+  "id": "b2e4b930-25db-46cb-a62b-03e0befba909",
+  "nombre": "Panini de Pollo con Pesto",
+  "fichero": "Panini de Pollo con Pesto.webp"
+ },
+ {
+  "id": "76644728-a0d1-49b5-b979-256e5b33ee09",
+  "nombre": "Pasta con Almejas al Estilo Vongole",
+  "fichero": "Pasta con Almejas al Estilo Vongole.webp"
+ },
+ {
+  "id": "2085abfb-f4d1-4fc7-8540-faab4855e9a5",
+  "nombre": "Pasta con Brócoli y Anchoas",
+  "fichero": "Pasta con Brócoli y Anchoas.webp"
+ },
+ {
+  "id": "1d10f3e2-cae8-4f85-89a0-61d3bd8ad7e7",
+  "nombre": "Pasta con calabacín y queso parmesano",
+  "fichero": "Pasta con calabacín y queso parmesano.webp"
+ },
+ {
+  "id": "a0dad20b-c455-4b2d-b0ca-8448484d94f6",
+  "nombre": "Pasta con carne picada y tomate express",
+  "fichero": "Pasta con carne picada y tomate express.webp"
+ },
+ {
+  "id": "ec851d10-2ad7-487f-a34c-8041e684996f",
+  "nombre": "Pasta con espinacas y ajo al limón",
+  "fichero": "Pasta con espinacas y ajo al limón.webp"
+ },
+ {
+  "id": "9b48cae5-702f-4908-918f-3592a72990d4",
+  "nombre": "Pasta con huevo y parmesano estilo carbonara ligera",
+  "fichero": "Pasta con huevo y parmesano estilo carbonara ligera.webp"
+ },
+ {
+  "id": "303d1659-c77b-4d33-ab3e-acb1964e4dc0",
+  "nombre": "Pasta con pollo y tomate en 15 minutos",
+  "fichero": "Pasta con pollo y tomate en 15 minutos.webp"
+ },
+ {
+  "id": "0d71ed46-8fb4-496a-8971-af903c0b0485",
+  "nombre": "Pasta con salmon ahumado y crema",
+  "fichero": "Pasta con salmon ahumado y crema.webp"
+ },
+ {
+  "id": "bef32a87-81ac-4695-ab02-4b131e949e30",
+  "nombre": "Pasta con salmón ahumado y crema ligera",
+  "fichero": "Pasta con salmón ahumado y crema ligera.webp"
+ },
+ {
+  "id": "8ec7c24a-2621-4651-9dbb-a1636dacd7a0",
+  "nombre": "Pasta con salsa de tomate cherry casera",
+  "fichero": "Pasta con salsa de tomate cherry casera.webp"
+ },
+ {
+  "id": "4b5602b8-914f-4c47-ba1c-ca9dbe0b13c2",
+  "nombre": "Pasta en Microondas con Tomate",
+  "fichero": "Pasta en Microondas con Tomate.webp"
+ },
+ {
+  "id": "cefd7c6d-e4ca-4a81-9637-3e7d55004978",
+  "nombre": "Pasta fría con pesto, mozzarella y tomate",
+  "fichero": "Pasta fría con pesto, mozzarella y tomate.webp"
+ },
+ {
+  "id": "14e7032b-fbcd-4588-b61d-e9947e24e5dd",
+  "nombre": "Pasta integral con espinacas y queso parmesano",
+  "fichero": "Pasta integral con espinacas y queso parmesano.webp"
+ },
+ {
+  "id": "b6eac5b2-6d0d-48de-9c18-d9a5e14f74c1",
+  "nombre": "Patata Asada al Microondas",
+  "fichero": "Patata Asada al Microondas.webp"
+ },
+ {
+  "id": "6e65f560-ad48-4d4c-b3c8-4eb1895b45e4",
+  "nombre": "Patata rellena de atún y queso al microondas",
+  "fichero": "Patata rellena de atún y queso al microondas.webp"
+ },
+ {
+  "id": "717960c4-bab1-4b83-b47f-12ec544c38b9",
+  "nombre": "Patata rellena de queso y maíz al microondas",
+  "fichero": "Patata rellena de queso y maíz al microondas.webp"
+ },
+ {
+  "id": "de30a4e7-0a87-4886-bcb3-f1c9fa87e77b",
+  "nombre": "Pavo picado salteado con verduras al estilo asiático",
+  "fichero": "Pavo picado salteado con verduras al estilo asiático.webp"
+ },
+ {
+  "id": "f6b24483-bed6-471b-b9e7-03bae6711d64",
+  "nombre": "Pavo salteado con calabacin y ajo",
+  "fichero": "Pavo salteado con calabacin y ajo.webp"
+ },
+ {
+  "id": "f62f61f8-f2c0-4612-a949-dfe7107cb035",
+  "nombre": "Pechuga de pavo al curry",
+  "fichero": "Pechuga de pavo al curry.webp"
+ },
+ {
+  "id": "b9a3d00d-8940-4882-b66e-d4a97963973a",
+  "nombre": "Pechuga de pavo con verduras y oregano al horno",
+  "fichero": "Pechuga de pavo con verduras y oregano al horno.webp"
+ },
+ {
+  "id": "b74900a5-079e-48b3-8cd3-fbb8b9f5f9a7",
+  "nombre": "Pechuga de pollo a la plancha con limon",
+  "fichero": "Pechuga de pollo a la plancha con limon.webp"
+ },
+ {
+  "id": "fe417272-e681-4fd5-88db-830a5882f7d3",
+  "nombre": "Pechuga de pollo con verduras al microondas",
+  "fichero": "Pechuga de pollo con verduras al microondas.webp"
+ },
+ {
+  "id": "e16de5ce-9e3e-4baf-a60e-47e2946e404a",
+  "nombre": "Pechuga Marinada en Yogur",
+  "fichero": "Pechuga Marinada en Yogur.webp"
+ },
+ {
+  "id": "7e7bbaab-0292-4f14-adfd-c9a3f731baca",
+  "nombre": "Pechuga Rellena de Espinacas y Queso",
+  "fichero": "Pechuga Rellena de Espinacas y Queso.webp"
+ },
+ {
+  "id": "1005bec9-90fb-470d-bc1d-023dc04459db",
+  "nombre": "Pechuga rellena de jamon y queso a la plancha",
+  "fichero": "Pechuga rellena de jamon y queso a la plancha.webp"
+ },
+ {
+  "id": "b5e68242-0a6d-4ea1-93d2-cc9154dab347",
+  "nombre": "Penne al Pesto Genovese",
+  "fichero": "Penne al Pesto Genovese.webp"
+ },
+ {
+  "id": "ebaf0ee9-a259-434c-9c89-a84dcb02fae0",
+  "nombre": "Pepito de Ternera",
+  "fichero": "Pepito de Ternera.webp"
+ },
+ {
+  "id": "87d22bf3-a6a2-491d-9b53-f6de1b035a4d",
+  "nombre": "Picadillo de pavo con huevo",
+  "fichero": "Picadillo de pavo con huevo.webp"
+ },
+ {
+  "id": "f6a67a96-79b9-47ea-8f33-f98f4b47fd47",
+  "nombre": "Pizza de barbacoa congelada con cebolla caramelizada",
+  "fichero": "Pizza de barbacoa congelada con cebolla caramelizada.webp"
+ },
+ {
+  "id": "80d469d2-f898-46ad-b3e3-3ae08c764736",
+  "nombre": "Poke Bowl de Atún",
+  "fichero": "Poke Bowl de Atún.webp"
+ },
+ {
+  "id": "bb060333-4e31-4af4-ba05-9816715cd709",
+  "nombre": "Poke bowl de salmón con arroz y edamame",
+  "fichero": "Poke bowl de salmón con arroz y edamame.webp"
+ },
+ {
+  "id": "85ac0308-ca49-4004-bdd1-6073940e11bf",
+  "nombre": "Poke Bowl de Tofu",
+  "fichero": "Poke Bowl de Tofu.webp"
+ },
+ {
+  "id": "c4d781aa-4d41-4450-b8ad-fd6e7e88d87b",
+  "nombre": "Poke bowl sencillo de atún",
+  "fichero": "Poke bowl sencillo de atún.webp"
+ },
+ {
+  "id": "458c84f9-f212-4884-835f-e343e95f9b0a",
+  "nombre": "Pollo a la Griega Rápido",
+  "fichero": "Pollo a la Griega Rápido.webp"
+ },
+ {
+  "id": "c5a69ebc-7438-4f47-8718-c8729a85f3cb",
+  "nombre": "Pollo a la Naranja",
+  "fichero": "Pollo a la Naranja.webp"
+ },
+ {
+  "id": "af5fd737-e627-410a-8402-355634d40eb0",
+  "nombre": "Pollo a la plancha con oregano y limon",
+  "fichero": "Pollo a la plancha con oregano y limon.webp"
+ },
+ {
+  "id": "274396e3-5e37-457d-acd0-e9d7e48eedf4",
+  "nombre": "Pollo al Ajillo Express",
+  "fichero": "Pollo al Ajillo Express.webp"
+ },
+ {
+  "id": "96d0c0a9-0ad4-4f62-be11-4639255bb1ae",
+  "nombre": "Pollo al curry rapido con leche de coco",
+  "fichero": "Pollo al curry rapido con leche de coco.webp"
+ },
+ {
+  "id": "4e81f4db-b2b4-4eea-8f28-9363e9208069",
+  "nombre": "Pollo al Curry Rápido con Coco",
+  "fichero": "Pollo al Curry Rápido con Coco.webp"
+ },
+ {
+  "id": "85f2ef87-ba64-4cf3-9ef6-15c49c17a950",
+  "nombre": "Pollo al horno con patatas y limón",
+  "fichero": "Pollo al horno con patatas y limón.webp"
+ },
+ {
+  "id": "bd423171-7d2c-4a57-be2e-a3a295bdb963",
+  "nombre": "Pollo al limon con cebolla caramelizada rapida",
+  "fichero": "Pollo al limon con cebolla caramelizada rapida.webp"
+ },
+ {
+  "id": "e32b9d8f-4b1c-42c0-b3ce-dad0eaa26605",
+  "nombre": "Pollo al pimenton con arroz integral",
+  "fichero": "Pollo al pimenton con arroz integral.webp"
+ },
+ {
+  "id": "ce47fdaa-1a34-48a3-a96d-0fa4597d7661",
+  "nombre": "Pollo Asado con Ajo Asado y Limón",
+  "fichero": "Pollo Asado con Ajo Asado y Limón.webp"
+ },
+ {
+  "id": "d0f704ad-b8aa-46a7-ae72-d6183fdcca68",
+  "nombre": "Pollo con champiñones a la sarten",
+  "fichero": "Pollo con champiñones a la sarten.webp"
+ },
+ {
+  "id": "d43789ee-d71b-4e26-853a-b1eefa521c83",
+  "nombre": "Pollo con espinacas y tomate a la sarten",
+  "fichero": "Pollo con espinacas y tomate a la sarten.webp"
+ },
+ {
+  "id": "64d16b39-5654-4556-9415-b1904f6eefac",
+  "nombre": "Pollo con Limón y Orégano",
+  "fichero": "Pollo con Limón y Orégano.webp"
+ },
+ {
+  "id": "2ba9c611-3f15-452e-b7ff-7ea86feea67b",
+  "nombre": "Pollo con Mostaza y Miel",
+  "fichero": "Pollo con Mostaza y Miel.webp"
+ },
+ {
+  "id": "df4e892e-7c03-4d8d-85ce-60bb7ac76fba",
+  "nombre": "Pollo con Naranja y Tomillo",
+  "fichero": "Pollo con Naranja y Tomillo.webp"
+ },
+ {
+  "id": "d72b571e-f8ff-4fc2-b240-7ce1be605586",
+  "nombre": "Pollo con Setas y Tomillo",
+  "fichero": "Pollo con Setas y Tomillo.webp"
+ },
+ {
+  "id": "06e4ab5f-274d-4056-a8a8-2bb4ecfd544e",
+  "nombre": "Pollo con Soja y Jengibre",
+  "fichero": "Pollo con Soja y Jengibre.webp"
+ },
+ {
+  "id": "02b04a70-5064-445e-8837-2f8bbe7597c9",
+  "nombre": "Pollo en Microondas con Especias",
+  "fichero": "Pollo en Microondas con Especias.webp"
+ },
+ {
+  "id": "5ae2c9af-41e4-486c-b075-73a19dbccc9f",
+  "nombre": "Pollo Stir-Fry con Brócoli",
+  "fichero": "Pollo Stir-Fry con Brócoli.webp"
+ },
+ {
+  "id": "eaec114e-6cef-484f-83bc-ab6cf66c9960",
+  "nombre": "Pollo Teriyaki Express",
+  "fichero": "Pollo Teriyaki Express.webp"
+ },
+ {
+  "id": "cd2f9c51-c6e4-4cef-8e2f-c22ca5670382",
+  "nombre": "Pollo teriyaki rapido a la sarten",
+  "fichero": "Pollo teriyaki rapido a la sarten.webp"
+ },
+ {
+  "id": "8784b8b1-0acc-4666-bedf-7c3d0948f2d4",
+  "nombre": "Pollo tikka con arroz basmati y guisantes",
+  "fichero": "Pollo tikka con arroz basmati y guisantes.webp"
+ },
+ {
+  "id": "c5a2ed44-0f2c-468f-b8cb-9fbaa680f02b",
+  "nombre": "Pollo tikka sencillo",
+  "fichero": "Pollo tikka sencillo.webp"
+ },
+ {
+  "id": "cdaae171-a165-4744-a211-a2a8e05839c0",
+  "nombre": "Porridge de avena con arándanos con leche de avena",
+  "fichero": "Porridge de avena con arándanos con leche de avena.webp"
+ },
+ {
+  "id": "215dd316-ee39-4d24-977c-b44f37c573b8",
+  "nombre": "Porridge de avena con cacao con leche de avena",
+  "fichero": "Porridge de avena con cacao con leche de avena.webp"
+ },
+ {
+  "id": "10a750d0-0048-4bd7-9a15-9eb5057e14ea",
+  "nombre": "Porridge de avena con crema de cacahuete",
+  "fichero": "Porridge de avena con crema de cacahuete.webp"
+ },
+ {
+  "id": "f66a9e05-0383-4889-baa6-40f945d06c16",
+  "nombre": "Porridge de avena con crema de cacahuete con leche de avena",
+  "fichero": "Porridge de avena con crema de cacahuete con leche de avena.webp"
+ },
+ {
+  "id": "aa5d9d83-a205-4c3b-a6c5-bae15e45630b",
+  "nombre": "Porridge de avena con fresas",
+  "fichero": "Porridge de avena con fresas.webp"
+ },
+ {
+  "id": "1baf3f5e-2d0d-475d-b3f4-ce5468a6bed0",
+  "nombre": "Porridge de avena con fresas con leche de avena",
+  "fichero": "Porridge de avena con fresas con leche de avena.webp"
+ },
+ {
+  "id": "8d1e4881-69c3-46d1-8154-bdcf182e6855",
+  "nombre": "Porridge de avena con manzana y canela",
+  "fichero": "Porridge de avena con manzana y canela.webp"
+ },
+ {
+  "id": "48287a32-9175-40ec-82a3-7df675cf71fd",
+  "nombre": "Porridge de avena con manzana y canela con leche de avena",
+  "fichero": "Porridge de avena con manzana y canela con leche de avena.webp"
+ },
+ {
+  "id": "ae1ed6fe-c0d4-4d96-9a00-d6bb82ee136b",
+  "nombre": "Porridge de avena con miel y nueces",
+  "fichero": "Porridge de avena con miel y nueces.webp"
+ },
+ {
+  "id": "7abfda5c-6595-4051-9564-b0b622ebf3e0",
+  "nombre": "Porridge de avena con plátano con leche de avena",
+  "fichero": "Porridge de avena con plátano con leche de avena.webp"
+ },
+ {
+  "id": "bb6a7311-aab5-4d8e-bdd5-3adcf40efae6",
+  "nombre": "Porridge de Avena en Microondas",
+  "fichero": "Porridge de Avena en Microondas.webp"
+ },
+ {
+  "id": "afdefd8e-a24e-4eaa-a52f-5ba8a32c78e8",
+  "nombre": "Prep de Tortillas Rellenas para la Semana",
+  "fichero": "Prep de Tortillas Rellenas para la Semana.webp"
+ },
+ {
+  "id": "ebedb38d-39f9-4c32-87d7-b171ce0141f3",
+  "nombre": "Prep de Verduras Asadas Surtidas",
+  "fichero": "Prep de Verduras Asadas Surtidas.webp"
+ },
+ {
+  "id": "8ac30062-6c12-4764-8deb-9a695023a5df",
+  "nombre": "Presa Ibérica con Salsa de Naranja",
+  "fichero": "Presa Ibérica con Salsa de Naranja.webp"
+ },
+ {
+  "id": "a2c8c7c3-d48b-4976-b29a-df81f0417f11",
+  "nombre": "Pulpo a la Gallega",
+  "fichero": "Pulpo a la Gallega.webp"
+ },
+ {
+  "id": "08b673cf-790d-4372-9873-80b966cb3ed1",
+  "nombre": "Puré de patata con pavo a la plancha y guisantes",
+  "fichero": "Puré de patata con pavo a la plancha y guisantes.webp"
+ },
+ {
+  "id": "212f28e7-be4a-45e9-a59a-31fbbdee677f",
+  "nombre": "Quesadilla de queso y maíz en sandwichera",
+  "fichero": "Quesadilla de queso y maíz en sandwichera.webp"
+ },
+ {
+  "id": "d4f49aa3-9d9b-4c86-b5f7-05c875493950",
+  "nombre": "Quesadillas con Guacamole",
+  "fichero": "Quesadillas con Guacamole.webp"
+ },
+ {
+  "id": "f5f6dd93-5625-41e5-9b16-7486fa2bff11",
+  "nombre": "Queso batido con fruta y miel",
+  "fichero": "Queso batido con fruta y miel.webp"
+ },
+ {
+  "id": "3e54707e-207c-4685-ae60-2898c7d5dada",
+  "nombre": "Quiche Lorraine Vegetariana",
+  "fichero": "Quiche Lorraine Vegetariana.webp"
+ },
+ {
+  "id": "ed963c09-1f8b-4c0d-a722-af14d0a19805",
+  "nombre": "Quinoa con carne picada magra y pimiento",
+  "fichero": "Quinoa con carne picada magra y pimiento.webp"
+ },
+ {
+  "id": "cc9aa41f-a164-4dc4-b6e5-75d72216897f",
+  "nombre": "Quinoa con gambas y pimientos",
+  "fichero": "Quinoa con gambas y pimientos.webp"
+ },
+ {
+  "id": "aa1bf1a9-d9e1-4d2c-8af9-37090da2edea",
+  "nombre": "Quinoa salteada con champiñones y ajo",
+  "fichero": "Quinoa salteada con champiñones y ajo.webp"
+ },
+ {
+  "id": "1df7e695-d914-4a37-a383-881c22f4a70b",
+  "nombre": "Ramen Casero de Cerdo",
+  "fichero": "Ramen Casero de Cerdo.webp"
+ },
+ {
+  "id": "1c846af4-78f9-4a9d-8eee-45bce6ba39e4",
+  "nombre": "Revuelto de atún con pimiento y cebolla",
+  "fichero": "Revuelto de atún con pimiento y cebolla.webp"
+ },
+ {
+  "id": "f6194879-7a28-49f7-86be-6182a4ad80a3",
+  "nombre": "Revuelto de berenjena y tomate",
+  "fichero": "Revuelto de berenjena y tomate.webp"
+ },
+ {
+  "id": "b2dedc6f-f012-4fb5-829e-534a4c02a999",
+  "nombre": "Revuelto de champiñones y espinacas",
+  "fichero": "Revuelto de champiñones y espinacas.webp"
+ },
+ {
+  "id": "4048a00e-59a0-4ab4-908e-d9647a86bdce",
+  "nombre": "Revuelto de claras con champiñones y pimiento",
+  "fichero": "Revuelto de claras con champiñones y pimiento.webp"
+ },
+ {
+  "id": "3ddf7b5a-43d0-4f7d-94c9-19f67add1dfa",
+  "nombre": "Revuelto de claras con pimientos y cebolla",
+  "fichero": "Revuelto de claras con pimientos y cebolla.webp"
+ },
+ {
+  "id": "fc1d1148-9ede-4801-8d79-ccd47a0c25cf",
+  "nombre": "Revuelto de gambas y espárragos trigueros",
+  "fichero": "Revuelto de gambas y espárragos trigueros.webp"
+ },
+ {
+  "id": "a328f664-a146-4024-a0a4-5261285db182",
+  "nombre": "Revuelto de patata, huevo y carne picada magra",
+  "fichero": "Revuelto de patata, huevo y carne picada magra.webp"
+ },
+ {
+  "id": "5f9056b7-ca5b-4e48-b109-5c62411e8c27",
+  "nombre": "Risotto de Guisantes y Jamón",
+  "fichero": "Risotto de Guisantes y Jamón.webp"
+ },
+ {
+  "id": "97f83213-2894-4113-b3f6-ae37a8a168d4",
+  "nombre": "Risotto de Setas",
+  "fichero": "Risotto de Setas.webp"
+ },
+ {
+  "id": "0714e9d7-bdb8-4fee-a7a7-36ac51a9dddd",
+  "nombre": "Risotto de Setas y Espárragos Vegano",
+  "fichero": "Risotto de Setas y Espárragos Vegano.webp"
+ },
+ {
+  "id": "ec116699-e2ef-4c4d-9795-a10b14db331f",
+  "nombre": "Risotto Express en Microondas",
+  "fichero": "Risotto Express en Microondas.webp"
+ },
+ {
+  "id": "a4b39eb6-c226-46db-b204-3d6834c4d2c6",
+  "nombre": "Rollitos de primavera caseros al horno",
+  "fichero": "Rollitos de primavera caseros al horno.webp"
+ },
+ {
+  "id": "abc2da40-b4ce-451f-bbe1-b7273ee7cea2",
+  "nombre": "Rollitos Primavera Frescos",
+  "fichero": "Rollitos Primavera Frescos.webp"
+ },
+ {
+  "id": "e06623d5-601c-40be-816a-d1cb2bee90e3",
+  "nombre": "Salchichas con tomate y huevo a la sartén",
+  "fichero": "Salchichas con tomate y huevo a la sartén.webp"
+ },
+ {
+  "id": "44aff8d4-0c2a-45ab-968d-95b51c3a73c8",
+  "nombre": "Salmón a la plancha con brócoli al vapor",
+  "fichero": "Salmón a la plancha con brócoli al vapor.webp"
+ },
+ {
+  "id": "e7501ce4-3150-44c2-95b6-c09a30669c77",
+  "nombre": "Salmón a la plancha con soja y sésamo",
+  "fichero": "Salmón a la plancha con soja y sésamo.webp"
+ },
+ {
+  "id": "20dd95f0-c4fc-49d6-9161-f6cc7b912c6a",
+  "nombre": "Salmón en papillote con limón",
+  "fichero": "Salmón en papillote con limón.webp"
+ },
+ {
+  "id": "cbf1a672-393a-4346-be9a-2a8df45fe724",
+  "nombre": "Salteado de Pollo con Anacardos",
+  "fichero": "Salteado de Pollo con Anacardos.webp"
+ },
+ {
+  "id": "bc5358ec-a96c-47bf-8e88-5e967abf266a",
+  "nombre": "Salteado de tofu con brócoli y champiñones",
+  "fichero": "Salteado de tofu con brócoli y champiñones.webp"
+ },
+ {
+  "id": "85de66ea-44f4-4e22-9f60-e86e216dab4d",
+  "nombre": "Sandwich Club Clásico",
+  "fichero": "Sandwich Club Clásico.webp"
+ },
+ {
+  "id": "cdeac2b5-a310-4b0d-9717-6417175f254e",
+  "nombre": "Sandwich de Aguacate y Huevo",
+  "fichero": "Sandwich de Aguacate y Huevo.webp"
+ },
+ {
+  "id": "642867d7-7964-48ed-b363-5bbd9fb3995a",
+  "nombre": "Sandwich de Atún con Maíz",
+  "fichero": "Sandwich de Atún con Maíz.webp"
+ },
+ {
+  "id": "6fcf3787-063c-4e85-ab5c-43f7db3790a6",
+  "nombre": "Sandwich de Pollo a la Plancha",
+  "fichero": "Sandwich de Pollo a la Plancha.webp"
+ },
+ {
+  "id": "63c02fb9-501b-4442-9689-b737d2924794",
+  "nombre": "Sandwich de Pollo con Guacamole",
+  "fichero": "Sandwich de Pollo con Guacamole.webp"
+ },
+ {
+  "id": "d5f3329d-72c8-4bb9-b74c-57233dde3fa1",
+  "nombre": "Sardinas al horno con limón",
+  "fichero": "Sardinas al horno con limón.webp"
+ },
+ {
+  "id": "e82afd30-a963-4c2a-b988-b939f50274e2",
+  "nombre": "Sardinas al horno con tomate y pimientos",
+  "fichero": "Sardinas al horno con tomate y pimientos.webp"
+ },
+ {
+  "id": "f9a79429-bebc-426d-a20e-76b7a97ee213",
+  "nombre": "Sardinas en pan con tomate",
+  "fichero": "Sardinas en pan con tomate.webp"
+ },
+ {
+  "id": "2124c77a-cfc3-4439-be1e-7d934f740534",
+  "nombre": "Secreto Ibérico a la Plancha",
+  "fichero": "Secreto Ibérico a la Plancha.webp"
+ },
+ {
+  "id": "b369dcd7-c872-4070-bf41-c18b77cf2a71",
+  "nombre": "Serranito Andaluz",
+  "fichero": "Serranito Andaluz.webp"
+ },
+ {
+  "id": "881c8c23-6ad0-420c-a87b-c5b103bafc63",
+  "nombre": "Shakshuka de Pimientos",
+  "fichero": "Shakshuka de Pimientos.webp"
+ },
+ {
+  "id": "95993cc7-2285-43c6-8236-d9ecc97e4bf9",
+  "nombre": "Smoothie bowl de frutos rojos",
+  "fichero": "Smoothie bowl de frutos rojos.webp"
+ },
+ {
+  "id": "0f1923e7-d41c-470d-9a5d-a00fd3bfc3e6",
+  "nombre": "Smoothie Bowl de Mango y Açaí",
+  "fichero": "Smoothie Bowl de Mango y Açaí.webp"
+ },
+ {
+  "id": "63a1a777-4f66-4b8b-92b9-55c5aaf2a568",
+  "nombre": "Smoothie bowl de naranja y plátano",
+  "fichero": "Smoothie bowl de naranja y plátano.webp"
+ },
+ {
+  "id": "395013d3-a245-471d-8f58-54ca202f2000",
+  "nombre": "Smoothie bowl de plátano y cacao",
+  "fichero": "Smoothie bowl de plátano y cacao.webp"
+ },
+ {
+  "id": "a371fc09-0f6a-4ca2-9e42-27e5f7197e41",
+  "nombre": "Smoothie bowl de plátano y fresa",
+  "fichero": "Smoothie bowl de plátano y fresa.webp"
+ },
+ {
+  "id": "b7add36f-66de-4620-858f-3ba58295fbc1",
+  "nombre": "Soba Fría con Salsa de Sésamo",
+  "fichero": "Soba Fría con Salsa de Sésamo.webp"
+ },
+ {
+  "id": "75cae1fd-8607-4167-8b37-f3878746b381",
+  "nombre": "Solomillo de cerdo al ajillo",
+  "fichero": "Solomillo de cerdo al ajillo.webp"
+ },
+ {
+  "id": "40fefd9e-2cb2-4f22-a606-b545559132c9",
+  "nombre": "Solomillo de Cerdo en Salsa de Mostaza",
+  "fichero": "Solomillo de Cerdo en Salsa de Mostaza.webp"
+ },
+ {
+  "id": "20bb0271-0d19-489a-8755-0f0c1b60cc23",
+  "nombre": "Solomillo de ternera a la pimienta",
+  "fichero": "Solomillo de ternera a la pimienta.webp"
+ },
+ {
+  "id": "54b3b1d4-6f06-4303-bdf7-6f837479c6a2",
+  "nombre": "Sopa de Arroz con Pollo",
+  "fichero": "Sopa de Arroz con Pollo.webp"
+ },
+ {
+  "id": "3ee5f5bc-4204-4884-9f67-5ab683b14833",
+  "nombre": "Sopa de Cebolla Gratinada",
+  "fichero": "Sopa de Cebolla Gratinada.webp"
+ },
+ {
+  "id": "11cf14d5-c2e7-4800-a49a-3d08cb311c68",
+  "nombre": "Sopa de Fideos al Microondas",
+  "fichero": "Sopa de Fideos al Microondas.webp"
+ },
+ {
+  "id": "56279782-1475-4193-85e5-aea940bb1546",
+  "nombre": "Sopa de fideos al microondas",
+  "fichero": "Sopa de fideos al microondas.webp"
+ },
+ {
+  "id": "9df5a3a2-ecb9-4879-8dfa-8dfff0b35017",
+  "nombre": "Sopa de Fideos con Pollo",
+  "fichero": "Sopa de Fideos con Pollo.webp"
+ },
+ {
+  "id": "b8512342-e1e9-4f11-95da-a529665922db",
+  "nombre": "Sopa de pescado con merluza congelada",
+  "fichero": "Sopa de pescado con merluza congelada.webp"
+ },
+ {
+  "id": "e1bf90ff-3ace-4051-b909-3f8deac211ad",
+  "nombre": "Sopa de Pescado y Marisco",
+  "fichero": "Sopa de Pescado y Marisco.webp"
+ },
+ {
+  "id": "057dd345-c10f-49fa-aef1-50b5f8151f69",
+  "nombre": "Spaghetti Aglio e Olio",
+  "fichero": "Spaghetti Aglio e Olio.webp"
+ },
+ {
+  "id": "4ef4e9ab-e83e-4f10-b7fd-e0a88771f58b",
+  "nombre": "Sushi Bowl de Salmón",
+  "fichero": "Sushi Bowl de Salmón.webp"
+ },
+ {
+  "id": "89113e81-9a9d-4b4c-815a-a16262a55155",
+  "nombre": "Sándwich caprese caliente",
+  "fichero": "Sándwich caprese caliente.webp"
+ },
+ {
+  "id": "636a309c-5a81-4f97-af78-c1b8624ce9f8",
+  "nombre": "Sándwich caprese en sandwichera",
+  "fichero": "Sándwich caprese en sandwichera.webp"
+ },
+ {
+  "id": "d302df44-0f34-4ec9-9a51-a9a59a58405e",
+  "nombre": "Sándwich Club de Pollo",
+  "fichero": "Sándwich Club de Pollo.webp"
+ },
+ {
+  "id": "69b682cd-4b38-4c55-bf44-3eb0eb574656",
+  "nombre": "Sándwich Cubano en Sandwichera",
+  "fichero": "Sándwich Cubano en Sandwichera.webp"
+ },
+ {
+  "id": "d0e44266-2ee2-4d86-a1eb-6c512afb9e43",
+  "nombre": "Sándwich de atún fundido en sandwichera",
+  "fichero": "Sándwich de atún fundido en sandwichera.webp"
+ },
+ {
+  "id": "6310a4eb-5275-4df5-ba0a-53913c146296",
+  "nombre": "Sándwich de atún y tomate",
+  "fichero": "Sándwich de atún y tomate.webp"
+ },
+ {
+  "id": "e70afad9-d6be-42e4-9942-c3eddca7e7db",
+  "nombre": "Sándwich de espinacas y mozzarella",
+  "fichero": "Sándwich de espinacas y mozzarella.webp"
+ },
+ {
+  "id": "0e42c8f4-07cc-4a45-88ce-cd32d6656ed0",
+  "nombre": "Sándwich de huevo revuelto y jamón",
+  "fichero": "Sándwich de huevo revuelto y jamón.webp"
+ },
+ {
+  "id": "2a91d011-8077-4639-b191-1efba2bf559e",
+  "nombre": "Sándwich de jamón serrano y tomate",
+  "fichero": "Sándwich de jamón serrano y tomate.webp"
+ },
+ {
+  "id": "9f7e5a14-fbb2-4689-9127-26975eb13ad8",
+  "nombre": "Sándwich de pollo y aguacate",
+  "fichero": "Sándwich de pollo y aguacate.webp"
+ },
+ {
+  "id": "c9c8b034-075f-45f7-99ea-ee2469047be9",
+  "nombre": "Sándwich Vegano de Tomate y Aguacate",
+  "fichero": "Sándwich Vegano de Tomate y Aguacate.webp"
+ },
+ {
+  "id": "4b9e909d-1658-4358-81db-f2a910f5075e",
+  "nombre": "Sándwich vegetal con huevo duro",
+  "fichero": "Sándwich vegetal con huevo duro.webp"
+ },
+ {
+  "id": "5c45b1ac-db67-4f21-8cb9-0d263fed1b63",
+  "nombre": "Tataki de Salmón con Ensalada de Sésamo",
+  "fichero": "Tataki de Salmón con Ensalada de Sésamo.webp"
+ },
+ {
+  "id": "c6ed2d34-b4f4-4f0b-a852-f393acc88378",
+  "nombre": "Tempeh Marinado a la Plancha",
+  "fichero": "Tempeh Marinado a la Plancha.webp"
+ },
+ {
+  "id": "a28f38ec-7514-45c1-9575-5d01b4834bfd",
+  "nombre": "Ternera con Brócoli al Wok",
+  "fichero": "Ternera con Brócoli al Wok.webp"
+ },
+ {
+  "id": "ce99a6bd-6f9a-42b1-a73c-c7267dcbcc11",
+  "nombre": "Tiras de Pollo Crujientes",
+  "fichero": "Tiras de Pollo Crujientes.webp"
+ },
+ {
+  "id": "04614359-7cbc-49dc-a764-1fe585ac160f",
+  "nombre": "Tortilla de calabacín y cebolla",
+  "fichero": "Tortilla de calabacín y cebolla.webp"
+ },
+ {
+  "id": "ca16e462-c964-43a2-805e-584fec60edca",
+  "nombre": "Tortilla de calabacín y queso",
+  "fichero": "Tortilla de calabacín y queso.webp"
+ },
+ {
+  "id": "b6e790e4-e29d-49dd-a8c2-4097433a832b",
+  "nombre": "Tortilla de claras con espinacas y queso fresco",
+  "fichero": "Tortilla de claras con espinacas y queso fresco.webp"
+ },
+ {
+  "id": "05a84ec5-cecd-408b-b756-78ebfb112969",
+  "nombre": "Tortilla de espinacas y queso feta",
+  "fichero": "Tortilla de espinacas y queso feta.webp"
+ },
+ {
+  "id": "1ca703ad-e0a8-4f85-980b-1840ecb19467",
+  "nombre": "Tortilla de espinacas y queso fresco",
+  "fichero": "Tortilla de espinacas y queso fresco.webp"
+ },
+ {
+  "id": "2373e6f1-4311-4ba9-8df8-b77af4a1bf5a",
+  "nombre": "Tortilla de pavo y espinacas",
+  "fichero": "Tortilla de pavo y espinacas.webp"
+ },
+ {
+  "id": "fad717dd-c403-4397-b9d2-ddb30e28612d",
+  "nombre": "Tortilla española de patatas y cebolla",
+  "fichero": "Tortilla española de patatas y cebolla.webp"
+ },
+ {
+  "id": "f6b35309-0e5b-430b-aec3-ac8cf78f1934",
+  "nombre": "Tortilla francesa",
+  "fichero": "Tortilla francesa.webp"
+ },
+ {
+  "id": "41b1b3fc-5561-4f20-9eae-1a390c2ccadd",
+  "nombre": "Tortilla francesa al microondas",
+  "fichero": "Tortilla francesa al microondas.webp"
+ },
+ {
+  "id": "4f261528-6a97-4c09-92a3-50af6629665b",
+  "nombre": "Tortilla francesa de queso",
+  "fichero": "Tortilla francesa de queso.webp"
+ },
+ {
+  "id": "c0272793-7c13-45d4-9683-0bb478c12eda",
+  "nombre": "Tortilla Francesa Rellena",
+  "fichero": "Tortilla Francesa Rellena.webp"
+ },
+ {
+  "id": "c028e3ec-8972-42dd-aac5-d89e065d6adb",
+  "nombre": "Tortitas de avena con arándanos",
+  "fichero": "Tortitas de avena con arándanos.webp"
+ },
+ {
+  "id": "966054a0-2822-4bcb-9878-142b21a6a100",
+  "nombre": "Tortitas de avena con fresas",
+  "fichero": "Tortitas de avena con fresas.webp"
+ },
+ {
+  "id": "b4e5e9f0-5dd3-4891-ab2d-b7a3f9f6bee8",
+  "nombre": "Tortitas de avena con plátano",
+  "fichero": "Tortitas de avena con plátano.webp"
+ },
+ {
+  "id": "bf57ecec-9f18-4a07-8462-37941bdce0e9",
+  "nombre": "Tortitas de avena y requesón con plátano y pavo",
+  "fichero": "Tortitas de avena y requesón con plátano y pavo.webp"
+ },
+ {
+  "id": "ef0a2aae-1ade-46ee-9971-d2ce4f66f0ea",
+  "nombre": "Tosta de Salmón Ahumado y Queso Crema",
+  "fichero": "Tosta de Salmón Ahumado y Queso Crema.webp"
+ },
+ {
+  "id": "72b66399-3cf6-4980-ba41-365319735ab8",
+  "nombre": "Tosta de Sobrasada con Miel",
+  "fichero": "Tosta de Sobrasada con Miel.webp"
+ },
+ {
+  "id": "d395caaa-e345-43d2-94a9-b4b329796dc3",
+  "nombre": "Tostada de biscotes con aguacate y huevo",
+  "fichero": "Tostada de biscotes con aguacate y huevo.webp"
+ },
+ {
+  "id": "c690a6a0-3fd6-4754-a7ff-aa857a88b551",
+  "nombre": "Tostada de biscotes con aguacate y semillas de chia",
+  "fichero": "Tostada de biscotes con aguacate y semillas de chia.webp"
+ },
+ {
+  "id": "0fefe6c0-49cf-46c7-9501-f2d9f2308f20",
+  "nombre": "Tostada de biscotes con queso crema y salmón",
+  "fichero": "Tostada de biscotes con queso crema y salmón.webp"
+ },
+ {
+  "id": "98e9a23a-c783-4b85-9333-632597dffc91",
+  "nombre": "Tostada de biscotes con salmón ahumado y aguacate",
+  "fichero": "Tostada de biscotes con salmón ahumado y aguacate.webp"
+ },
+ {
+  "id": "d7f8c60e-ddda-4911-9447-5ff318dafdbc",
+  "nombre": "Tostada de centeno con aguacate y pavo",
+  "fichero": "Tostada de centeno con aguacate y pavo.webp"
+ },
+ {
+  "id": "4c97b012-6336-4d7e-9703-2c54d74487d8",
+  "nombre": "Tostada de centeno con crema de cacahuete y plátano",
+  "fichero": "Tostada de centeno con crema de cacahuete y plátano.webp"
+ },
+ {
+  "id": "bdbab498-754a-48f8-a131-571c89394d19",
+  "nombre": "Tostada de centeno con jamón cocido y tomate",
+  "fichero": "Tostada de centeno con jamón cocido y tomate.webp"
+ },
+ {
+  "id": "98b732b7-02aa-4c31-b665-7ed1b26828d4",
+  "nombre": "Tostada de centeno con mantequilla de cacahuete y miel",
+  "fichero": "Tostada de centeno con mantequilla de cacahuete y miel.webp"
+ },
+ {
+  "id": "a2b05fa4-c9c3-4081-b3e4-1e34558d05bb",
+  "nombre": "Tostada de centeno con queso crema y fresas",
+  "fichero": "Tostada de centeno con queso crema y fresas.webp"
+ },
+ {
+  "id": "10118939-50b5-471a-955c-f9fa3508349b",
+  "nombre": "Tostada de centeno con queso crema y tomate",
+  "fichero": "Tostada de centeno con queso crema y tomate.webp"
+ },
+ {
+  "id": "8656f5bf-70c1-4aa3-9430-a54e685d9d4e",
+  "nombre": "Tostada de pan de cristal con queso crema y salmón",
+  "fichero": "Tostada de pan de cristal con queso crema y salmón.webp"
+ },
+ {
+  "id": "3cb9d1ee-2dbd-4592-a22a-459eb92fc34f",
+  "nombre": "Tostada de pan de cristal con salmón ahumado y aguacate",
+  "fichero": "Tostada de pan de cristal con salmón ahumado y aguacate.webp"
+ },
+ {
+  "id": "c53afcac-971b-4f3e-879a-418f2b929e46",
+  "nombre": "Tostada de pan de molde con aguacate y tomate",
+  "fichero": "Tostada de pan de molde con aguacate y tomate.webp"
+ },
+ {
+  "id": "949dcdff-8ed5-41ba-a42e-d8f63f5effd8",
+  "nombre": "Tostada de pan de molde con salmón ahumado y aguacate",
+  "fichero": "Tostada de pan de molde con salmón ahumado y aguacate.webp"
+ },
+ {
+  "id": "8549364c-030a-4b8c-bb1f-58d4dff80a04",
+  "nombre": "Tostadas de Aguacate con Huevo Poché",
+  "fichero": "Tostadas de Aguacate con Huevo Poché.webp"
+ },
+ {
+  "id": "dd2e1f97-4fb2-4c94-ab12-940d6a319ae9",
+  "nombre": "Tostadas de salmon ahumado con aguacate",
+  "fichero": "Tostadas de salmon ahumado con aguacate.webp"
+ },
+ {
+  "id": "f9d3be62-17ee-41e3-a033-0a749ec67c33",
+  "nombre": "Tostadas francesas con fresas",
+  "fichero": "Tostadas francesas con fresas.webp"
+ },
+ {
+  "id": "8470f2cf-ac0d-4cb7-b0de-a992781b3eb1",
+  "nombre": "Tostadas francesas con sirope de arce",
+  "fichero": "Tostadas francesas con sirope de arce.webp"
+ },
+ {
+  "id": "2a094143-3861-48dc-ad35-03f442415f7d",
+  "nombre": "Tramezzini Italiano de Salmón",
+  "fichero": "Tramezzini Italiano de Salmón.webp"
+ },
+ {
+  "id": "3c67c1b7-54ad-405a-b271-338c19168745",
+  "nombre": "Udon salteado con pollo y verduras al wok",
+  "fichero": "Udon salteado con pollo y verduras al wok.webp"
+ },
+ {
+  "id": "67016e2b-c48d-4932-afc1-79f55a53a35c",
+  "nombre": "Verduras asadas al air fryer",
+  "fichero": "Verduras asadas al air fryer.webp"
+ },
+ {
+  "id": "2a702680-5f74-4919-9f90-757015090ba7",
+  "nombre": "Wok de pollo con brocoli y salsa de ostra",
+  "fichero": "Wok de pollo con brocoli y salsa de ostra.webp"
+ },
+ {
+  "id": "c9a8aa78-f973-43e5-907f-fd3b83f93cba",
+  "nombre": "Wok de pollo con pimiento y champiñones",
+  "fichero": "Wok de pollo con pimiento y champiñones.webp"
+ },
+ {
+  "id": "84b76070-4059-4175-a34c-bdd6b1c28c8e",
+  "nombre": "Wok de pollo con pimiento y soja",
+  "fichero": "Wok de pollo con pimiento y soja.webp"
+ },
+ {
+  "id": "e2bacfda-d569-4ee0-98bf-3a82f8964719",
+  "nombre": "Wok de Pollo y Brócoli",
+  "fichero": "Wok de Pollo y Brócoli.webp"
+ },
+ {
+  "id": "b18c2b0a-1903-4ba5-8c97-8aba95e844e0",
+  "nombre": "Wrap Caliente de Pollo en Sandwichera",
+  "fichero": "Wrap Caliente de Pollo en Sandwichera.webp"
+ },
+ {
+  "id": "419a6698-ba96-46b8-90b5-7f2ac326112c",
+  "nombre": "Wrap de claras y pavo a la sandwichera",
+  "fichero": "Wrap de claras y pavo a la sandwichera.webp"
+ },
+ {
+  "id": "6a2be73a-6a11-434a-bb8c-76fac3212439",
+  "nombre": "Wrap de pavo, arroz y verduras",
+  "fichero": "Wrap de pavo, arroz y verduras.webp"
+ },
+ {
+  "id": "f12be671-43a9-47cd-a856-2177c98f3528",
+  "nombre": "Wrap de pollo al curry en sandwichera",
+  "fichero": "Wrap de pollo al curry en sandwichera.webp"
+ },
+ {
+  "id": "cf3d7bfb-00fc-47f4-ba8b-d5e23b0627ae",
+  "nombre": "Wrap de Pollo con Verduras",
+  "fichero": "Wrap de Pollo con Verduras.webp"
+ },
+ {
+  "id": "803dac87-2f45-45bb-a34c-68ab2356d9b0",
+  "nombre": "Yogur griego con arándanos",
+  "fichero": "Yogur griego con arándanos.webp"
+ },
+ {
+  "id": "13bce1c3-6fb0-43ba-b335-ef1e11dd9898",
+  "nombre": "Yogur griego con avena y manzana",
+  "fichero": "Yogur griego con avena y manzana.webp"
+ },
+ {
+  "id": "c1dd5eb3-96ca-4e20-8dc4-149a986adc56",
+  "nombre": "Yogur griego con granola",
+  "fichero": "Yogur griego con granola.webp"
+ },
+ {
+  "id": "733908f9-df51-43e2-9d85-e3693925b1aa",
+  "nombre": "Yogur griego con mermelada",
+  "fichero": "Yogur griego con mermelada.webp"
+ },
+ {
+  "id": "5da9bdf9-b3c4-4126-91fe-d0ee66fa5568",
+  "nombre": "Yogur griego con miel",
+  "fichero": "Yogur griego con miel.webp"
+ },
+ {
+  "id": "1d892658-3942-4ee3-8c90-460856c3f233",
+  "nombre": "Yogur griego con nueces y arándanos",
+  "fichero": "Yogur griego con nueces y arándanos.webp"
+ },
+ {
+  "id": "64ec682a-2f50-49a6-b5ce-eab2c93f5f1d",
+  "nombre": "Yogur griego con pera",
+  "fichero": "Yogur griego con pera.webp"
+ },
+ {
+  "id": "da37493d-715d-4814-9ee3-7d687aed7b71",
+  "nombre": "Yogur natural con arándanos",
+  "fichero": "Yogur natural con arándanos.webp"
+ },
+ {
+  "id": "8b84e7cc-07a9-4732-9797-79d8e4008415",
+  "nombre": "Yogur natural con avena y manzana",
+  "fichero": "Yogur natural con avena y manzana.webp"
+ },
+ {
+  "id": "1683528f-9119-48cc-906b-c2323a03146d",
+  "nombre": "Yogur natural con granola y plátano",
+  "fichero": "Yogur natural con granola y plátano.webp"
+ },
+ {
+  "id": "3c0312ef-6e3e-4e0a-b3d5-a5168ccfc356",
+  "nombre": "Yogur natural con miel",
+  "fichero": "Yogur natural con miel.webp"
+ },
+ {
+  "id": "fed6d1f6-f36a-466a-93d9-235ae5164ef0",
+  "nombre": "Yogur natural con miel y semillas de chia",
+  "fichero": "Yogur natural con miel y semillas de chia.webp"
+ },
+ {
+  "id": "1d74365e-666d-4a18-8e78-7c704e6dc6d0",
+  "nombre": "Yogur natural con muesli y fresas",
+  "fichero": "Yogur natural con muesli y fresas.webp"
+ },
+ {
+  "id": "56906758-3086-46cf-9d5b-6f4b47cb9e5d",
+  "nombre": "Yogur natural con naranja",
+  "fichero": "Yogur natural con naranja.webp"
+ },
+ {
+  "id": "cb62415a-e0fd-4923-90ba-707f17c2e376",
+  "nombre": "Yogur natural con nueces y arándanos",
+  "fichero": "Yogur natural con nueces y arándanos.webp"
+ },
+ {
+  "id": "13573e3b-d1b8-43de-bb9b-9d2ea89427b6",
+  "nombre": "Yogur natural con pasas",
+  "fichero": "Yogur natural con pasas.webp"
+ },
+ {
+  "id": "54feee02-c39e-4f78-9abb-66dc6ca17975",
+  "nombre": "Yogur natural con pera",
+  "fichero": "Yogur natural con pera.webp"
+ },
+ {
+  "id": "409dd6dc-056f-4a70-994c-0bc96591a9e0",
+  "nombre": "Zoodles con Pesto de Aguacate",
+  "fichero": "Zoodles con Pesto de Aguacate.webp"
+ },
+ {
+  "id": "8921dedc-8aeb-4ec1-97c9-c49699e0c5d9",
+  "nombre": "Ñoquis con boloñesa de pavo",
+  "fichero": "Ñoquis con boloñesa de pavo.webp"
+ },
+ {
+  "id": "cefefcbe-8a89-4577-84a0-04f10bfffe2f",
+  "nombre": "Ternera picada con champiñones y cebolla",
+  "fichero": "Ternera picada con champiñones y cebolla.webp"
+ },
+ {
+  "id": "385b3b18-3146-4258-9a86-0127189b9074",
+  "nombre": "Ensalada de Pasta Fría",
+  "fichero": "Ensalada de Pasta Fría.webp"
+ },
+ {
+  "id": "348df46a-5d0e-406b-9d68-93dfff0e5635",
+  "nombre": "Porridge de avena con cacao",
+  "fichero": "Porridge de avena con cacao.webp"
+ },
+ {
+  "id": "d645f876-a239-4e77-8680-4123ed8aa629",
+  "nombre": "Arroz con salmón y espinacas",
+  "fichero": "Arroz con salmón y espinacas.webp"
+ },
+ {
+  "id": "167f8b3c-bb33-49cb-a568-69296e1468da",
+  "nombre": "Filete de pavo a la plancha con espárragos",
+  "fichero": "Filete de pavo a la plancha con espárragos.webp"
+ },
+ {
+  "id": "19714df1-b3f8-478f-8d5f-b543c7a07ebd",
+  "nombre": "Boloñesa de ternera con espaguetis",
+  "fichero": "Boloñesa de ternera con espaguetis.webp"
+ },
+ {
+  "id": "668eb4a4-317a-47b3-8353-e705910d52ed",
+  "nombre": "Risotto de Espárragos",
+  "fichero": "Risotto de Espárragos.webp"
+ },
+ {
+  "id": "22896181-a24e-4d22-81a2-4919d3ab53c7",
+  "nombre": "Tortitas de avena con miel",
+  "fichero": "Tortitas de avena con miel.webp"
+ },
+ {
+  "id": "7fdc4084-df45-4120-aaf5-12d7635f5e9d",
+  "nombre": "Cuscús con pavo y garbanzos",
+  "fichero": "Cuscús con pavo y garbanzos.webp"
+ },
+ {
+  "id": "01821859-314c-4e50-bea9-dcd9f595999d",
+  "nombre": "Garbanzos con espinacas y atún",
+  "fichero": "Garbanzos con espinacas y atún.webp"
+ },
+ {
+  "id": "b674f897-1811-4a50-a290-9a39c96bad9b",
+  "nombre": "Merluza Rebozada con Ensalada",
+  "fichero": "Merluza Rebozada con Ensalada.webp"
+ },
+ {
+  "id": "5a402f39-7155-42d3-852f-365ac8c0a80a",
+  "nombre": "Pechugas de pollo al horno con limón y hierbas",
+  "fichero": "Pechugas de pollo al horno con limón y hierbas.webp"
+ },
+ {
+  "id": "a15abb4e-73fb-429f-8f89-c9f277d99ca1",
+  "nombre": "Garbanzos salteados con pollo y espinacas",
+  "fichero": "Garbanzos salteados con pollo y espinacas.webp"
+ },
+ {
+  "id": "8f9e669c-267c-4240-a16c-020a14942ebc",
+  "nombre": "Pulled Pork con Brioche",
+  "fichero": "Pulled Pork con Brioche.webp"
+ },
+ {
+  "id": "eb779fc0-f26d-45a6-87c7-ec8c61112a09",
+  "nombre": "Sándwich de pavo y queso",
+  "fichero": "Sándwich de pavo y queso.webp"
+ },
+ {
+  "id": "74a10de3-515b-4475-b30d-87bc28bde605",
+  "nombre": "Pizza de Verduras sin Queso",
+  "fichero": "Pizza de Verduras sin Queso.webp"
+ },
+ {
+  "id": "c209092c-c061-4ed5-9795-191716d699a6",
+  "nombre": "Pavo picado salteado con pimientos y soja",
+  "fichero": "Pavo picado salteado con pimientos y soja.webp"
+ },
+ {
+  "id": "c04a4ce5-b993-4b98-823d-d9e2dcbeffa5",
+  "nombre": "Chana Masala",
+  "fichero": "Chana Masala.webp"
+ },
+ {
+  "id": "42943223-265a-4fdd-8d09-9def97b02ce6",
+  "nombre": "Espaguetis con merluza y tomate",
+  "fichero": "Espaguetis con merluza y tomate.webp"
+ },
+ {
+  "id": "a549a3fe-cddb-48ed-9722-24c1815a8492",
+  "nombre": "Macarrones con Salsa de Quesos",
+  "fichero": "Macarrones con Salsa de Quesos.webp"
+ },
+ {
+  "id": "e53a3527-361a-4c46-bc9a-9193316cc61a",
+  "nombre": "Quesadilla de ternera magra y maíz con arroz",
+  "fichero": "Quesadilla de ternera magra y maíz con arroz.webp"
+ },
+ {
+  "id": "8cfd8a2c-ace3-43a2-98c5-aad2875aa0fe",
+  "nombre": "Gnocchi a la carbonara",
+  "fichero": "Gnocchi a la carbonara.webp"
+ },
+ {
+  "id": "942b8e83-155e-43d1-be66-be7507c10ef5",
+  "nombre": "Porridge de Avena con Frutas",
+  "fichero": "Porridge de Avena con Frutas.webp"
+ },
+ {
+  "id": "df404f3f-71ab-4ecd-85a3-b87584d4a1a1",
+  "nombre": "Salteado de verduras con huevo al plato",
+  "fichero": "Salteado de verduras con huevo al plato.webp"
+ },
+ {
+  "id": "311334c7-abcc-4440-816e-0bf30c85a041",
+  "nombre": "Merluza a la plancha con brócoli al vapor",
+  "fichero": "Merluza a la plancha con brócoli al vapor.webp"
+ },
+ {
+  "id": "b658bce5-5bb3-410d-b2c2-2805f133e155",
+  "nombre": "Gofres de avena con miel",
+  "fichero": "Gofres de avena con miel.webp"
+ },
+ {
+  "id": "414964b4-0c77-417f-962d-d785d68bcd70",
+  "nombre": "Noodles Salteados con Pollo",
+  "fichero": "Noodles Salteados con Pollo.webp"
+ },
+ {
+  "id": "4bf577e4-6bce-4783-95b7-fa9e15865360",
+  "nombre": "Wrap de pollo y queso a la sandwichera",
+  "fichero": "Wrap de pollo y queso a la sandwichera.webp"
+ },
+ {
+  "id": "85532af8-ab51-481d-ba0c-0dd2feadb4a6",
+  "nombre": "Sándwich de aguacate y salmón ahumado",
+  "fichero": "Sándwich de aguacate y salmón ahumado.webp"
+ },
+ {
+  "id": "685ac0a7-1e05-4229-a362-05a20186a4b0",
+  "nombre": "Gofre Dulce con Nocilla",
+  "fichero": "Gofre Dulce con Nocilla.webp"
+ },
+ {
+  "id": "5b24932e-4317-4828-8032-4c78c4eb316b",
+  "nombre": "Ternera con Brócoli Estilo Chino",
+  "fichero": "Ternera con Brócoli Estilo Chino.webp"
+ },
+ {
+  "id": "17ffa23c-3842-4fa2-974a-15e02930504b",
+  "nombre": "Huevos Escalfados en Salsa de Tomate",
+  "fichero": "Huevos Escalfados en Salsa de Tomate.webp"
+ },
+ {
+  "id": "fb18d7a3-adf9-4488-a3dc-6426512c9540",
+  "nombre": "Buddha Bowl Proteico",
+  "fichero": "Buddha Bowl Proteico.webp"
+ },
+ {
+  "id": "289fde6e-7cf0-4bb3-b42d-2383b869ae7c",
+  "nombre": "Ternera con Champiñones",
+  "fichero": "Ternera con Champiñones.webp"
+ },
+ {
+  "id": "1d77cc0f-ab56-474f-b8f6-5341ec096dab",
+  "nombre": "Escalope de Pollo Empanado",
+  "fichero": "Escalope de Pollo Empanado.webp"
+ },
+ {
+  "id": "ffd16f89-bf25-4b7e-bcdf-cc56be308eee",
+  "nombre": "Macarrones con pollo y verduras salteadas",
+  "fichero": "Macarrones con pollo y verduras salteadas.webp"
+ },
+ {
+  "id": "f5ce525f-4440-41d1-860a-c8bfceb96d40",
+  "nombre": "Arroz con pavo y pimiento al pimenton",
+  "fichero": "Arroz con pavo y pimiento al pimenton.webp"
+ },
+ {
+  "id": "21560a7d-6f9f-4d72-84a4-c93b5ac328d6",
+  "nombre": "Sándwich de Mozzarella y Tomate Seco",
+  "fichero": "Sándwich de Mozzarella y Tomate Seco.webp"
+ },
+ {
+  "id": "c524915c-b5dc-47f5-9408-58e9c46562cd",
+  "nombre": "Tortitas de avena con mermelada",
+  "fichero": "Tortitas de avena con mermelada.webp"
+ },
+ {
+  "id": "6342170f-3ed3-4747-83f1-3e5877f3b552",
+  "nombre": "Colas de gambas salteadas con pimientos",
+  "fichero": "Colas de gambas salteadas con pimientos.webp"
+ },
+ {
+  "id": "12e33fc8-9e71-4986-846f-f6afd190ac96",
+  "nombre": "Carne picada de pavo con pisto express",
+  "fichero": "Carne picada de pavo con pisto express.webp"
+ },
+ {
+  "id": "1ab52839-3083-401d-879c-b1b089129715",
+  "nombre": "Okonomiyaki Japonés",
+  "fichero": "Okonomiyaki Japonés.webp"
+ },
+ {
+  "id": "e880696d-9d97-48ed-bfa6-a544e069ec60",
+  "nombre": "Huevos a la Flamenca",
+  "fichero": "Huevos a la Flamenca.webp"
+ },
+ {
+  "id": "70d08885-cb7e-4ff8-bbce-a3a4b390b035",
+  "nombre": "Revuelto de Setas y Jamón",
+  "fichero": "Revuelto de Setas y Jamón.webp"
+ },
+ {
+  "id": "2b646c25-03af-4b57-9de3-548a724fb2bb",
+  "nombre": "Risotto de pollo y champiñones",
+  "fichero": "Risotto de pollo y champiñones.webp"
+ },
+ {
+  "id": "7cf60f4f-e98a-44cb-811c-42269fea326c",
+  "nombre": "Crema de brócoli con ajo y limón",
+  "fichero": "Crema de brócoli con ajo y limón.webp"
+ },
+ {
+  "id": "3fa048d3-43bc-40e9-84d5-940f9657e254",
+  "nombre": "Ensalada de Pollo y Aguacate",
+  "fichero": "Ensalada de Pollo y Aguacate.webp"
+ },
+ {
+  "id": "7feb8318-4fc4-4fa0-be53-5a78002d9d77",
+  "nombre": "Wraps de Lechuga con Pollo",
+  "fichero": "Wraps de Lechuga con Pollo.webp"
+ },
+ {
+  "id": "08b010b9-97fc-4d0d-b9b2-3dc40eb3dfef",
+  "nombre": "Espaguetis con Gambas y Ajo",
+  "fichero": "Espaguetis con Gambas y Ajo.webp"
+ },
+ {
+  "id": "9f162e55-1105-48f4-86a3-3955f2f60df9",
+  "nombre": "Pollo Relleno Navideño",
+  "fichero": "Pollo Relleno Navideño.webp"
+ },
+ {
+  "id": "4e622e2a-b216-46a4-9e43-ad2ac8db20e4",
+  "nombre": "Estofado de Ternera con Patatas",
+  "fichero": "Estofado de Ternera con Patatas.webp"
+ },
+ {
+  "id": "085e442c-a620-4a17-b217-2b0ed017aa44",
+  "nombre": "Arroz con pollo al curry y zanahoria",
+  "fichero": "Arroz con pollo al curry y zanahoria.webp"
+ },
+ {
+  "id": "65feed5c-08c2-419a-9524-14f963e3a157",
+  "nombre": "Ensalada de Poke con Edamame",
+  "fichero": "Ensalada de Poke con Edamame.webp"
+ },
+ {
+  "id": "3a494e9a-3822-4b5f-8965-292248cfa563",
+  "nombre": "Macarrones con pavo picado y tomate",
+  "fichero": "Macarrones con pavo picado y tomate.webp"
+ },
+ {
+  "id": "063dcd65-c36b-43c5-b082-67f6878693fa",
+  "nombre": "Pechugas de pollo con tomate y albahaca",
+  "fichero": "Pechugas de pollo con tomate y albahaca.webp"
+ },
+ {
+  "id": "3e7d3065-9939-45c9-b381-cebe4f725dae",
+  "nombre": "Sopa Thai de Coco y Gambas",
+  "fichero": "Sopa Thai de Coco y Gambas.webp"
+ },
+ {
+  "id": "56aec803-c28e-436a-9d66-3803ab7bd787",
+  "nombre": "Tostadas Francesas con Canela",
+  "fichero": "Tostadas Francesas con Canela.webp"
+ },
+ {
+  "id": "049c8c88-4eab-43fb-9e9f-dfbb1c8133ad",
+  "nombre": "Sándwich de Espinacas y Feta",
+  "fichero": "Sándwich de Espinacas y Feta.webp"
+ },
+ {
+  "id": "5d624746-2a6c-49e0-a4a4-37ac96ec40f7",
+  "nombre": "Tempura de Verduras",
+  "fichero": "Tempura de Verduras.webp"
+ },
+ {
+  "id": "4b093cea-4ec0-4492-bf4c-4b1499880216",
+  "nombre": "Quesadilla de queso y pimientos en sandwichera",
+  "fichero": "Quesadilla de queso y pimientos en sandwichera.webp"
+ },
+ {
+  "id": "9aadfcc0-24b8-4ea0-ae57-ffec8788d77a",
+  "nombre": "Sándwich de plátano y crema de cacahuete a la plancha",
+  "fichero": "Sándwich de plátano y crema de cacahuete a la plancha.webp"
+ },
+ {
+  "id": "33bbc156-d80c-4c3e-bb1a-28668904605c",
+  "nombre": "Lomo de cerdo en salsa verde",
+  "fichero": "Lomo de cerdo en salsa verde.webp"
+ },
+ {
+  "id": "8d1b05bd-9434-4784-9abf-1efc8def5cdf",
+  "nombre": "Arroz salteado con pollo y pimientos tricolor",
+  "fichero": "Arroz salteado con pollo y pimientos tricolor.webp"
+ },
+ {
+  "id": "c6b73ff4-b2d9-4e97-a5db-0c471bde1713",
+  "nombre": "Arroz con Huevo Frito Chino",
+  "fichero": "Arroz con Huevo Frito Chino.webp"
+ },
+ {
+  "id": "8aa2acf3-18a0-4c2b-80d4-d68d46473d4f",
+  "nombre": "Porridge de avena con arándanos",
+  "fichero": "Porridge de avena con arándanos.webp"
+ },
+ {
+  "id": "80d9ede7-e54b-4dff-8c88-390fdbc31769",
+  "nombre": "Pasta con Mantequilla y Parmesano",
+  "fichero": "Pasta con Mantequilla y Parmesano.webp"
+ },
+ {
+  "id": "3f02a7c5-a4c9-4f1e-b482-892f09e7e7e0",
+  "nombre": "Pechuga a la plancha con limón y ajo",
+  "fichero": "Pechuga a la plancha con limón y ajo.webp"
+ },
+ {
+  "id": "19a9469e-3a73-4970-b90a-f364f6675b1b",
+  "nombre": "Pasta pesto con tomates cherry",
+  "fichero": "Pasta pesto con tomates cherry.webp"
+ },
+ {
+  "id": "098cf896-4669-4be7-8f78-466ad33c7c60",
+  "nombre": "Pepito de Setas",
+  "fichero": "Pepito de Setas.webp"
+ },
+ {
+  "id": "b556e6db-5a77-4e2a-b00a-e63aa446ccca",
+  "nombre": "Avena cremosa de plátano y crema de cacahuete",
+  "fichero": "Avena cremosa de plátano y crema de cacahuete.webp"
+ },
+ {
+  "id": "551b3164-b3da-49a9-9fe7-e668a74b24aa",
+  "nombre": "Pollo con garbanzos y espinacas",
+  "fichero": "Pollo con garbanzos y espinacas.webp"
+ },
+ {
+  "id": "19ee6097-645d-49cb-9146-366455edbb75",
+  "nombre": "Arroz tres delicias express",
+  "fichero": "Arroz tres delicias express.webp"
+ },
+ {
+  "id": "af272f04-bee6-4bb5-95a4-ca6ebf618d88",
+  "nombre": "Pastel de patata con pavo picado",
+  "fichero": "Pastel de patata con pavo picado.webp"
+ },
+ {
+  "id": "9dd39325-9c7b-45a5-972e-5c8d7c459a02",
+  "nombre": "Curry de Pollo con Leche de Coco",
+  "fichero": "Curry de Pollo con Leche de Coco.webp"
+ },
+ {
+  "id": "4c5dae62-8772-4d5a-ad36-b8dcbf85ffc7",
+  "nombre": "Yogur griego con copos de avena",
+  "fichero": "Yogur griego con copos de avena.webp"
+ },
+ {
+  "id": "74460077-de4e-4d7d-8dad-a4184476c2a4",
+  "nombre": "Tostada de pan de molde con aguacate y pavo",
+  "fichero": "Tostada de pan de molde con aguacate y pavo.webp"
+ },
+ {
+  "id": "1c5c33a5-ccc6-46f8-8e95-18ee300d660c",
+  "nombre": "Yogur griego con granola y arándanos",
+  "fichero": "Yogur griego con granola y arándanos.webp"
+ },
+ {
+  "id": "494d42e8-c686-49ec-b740-38f813c95b16",
+  "nombre": "Tostada de pan de cristal con queso fresco y miel",
+  "fichero": "Tostada de pan de cristal con queso fresco y miel.webp"
+ },
+ {
+  "id": "83cc32c4-1929-4734-97d8-7fb345ab0e4d",
+  "nombre": "Batido de arándanos y plátano con leche",
+  "fichero": "Batido de arándanos y plátano con leche.webp"
+ },
+ {
+  "id": "f196e1f6-7383-452a-b764-1ed2decbd39d",
+  "nombre": "Bol de arroz con edamame y aguacate",
+  "fichero": "Bol de arroz con edamame y aguacate.webp"
+ },
+ {
+  "id": "e06078c8-de67-431f-a7ca-e7327a65af7a",
+  "nombre": "Ensalada de Col y Zanahoria",
+  "fichero": "Ensalada de Col y Zanahoria.webp"
+ },
+ {
+  "id": "d5dfa7b6-969a-4920-b47f-f5e88fa7c473",
+  "nombre": "Batido de arándanos y plátano con yogur",
+  "fichero": "Batido de arándanos y plátano con yogur.webp"
+ },
+ {
+  "id": "10476160-bdd9-4cd5-a6d4-c9cd721a42cf",
+  "nombre": "Pasta con Ricotta y Espinacas",
+  "fichero": "Pasta con Ricotta y Espinacas.webp"
+ },
+ {
+  "id": "28a66870-11d4-40f1-ab46-8c8317bd2e33",
+  "nombre": "Hamburguesas caseras de ternera con cebolla caramelizada",
+  "fichero": "Hamburguesas caseras de ternera con cebolla caramelizada.webp"
+ },
+ {
+  "id": "396278e0-aeba-46bb-bb83-c9b6eda16dd3",
+  "nombre": "Pastel de carne picada con puré de patata",
+  "fichero": "Pastel de carne picada con puré de patata.webp"
+ },
+ {
+  "id": "f6038340-4e3a-43e3-b9c8-524aa9f674cf",
+  "nombre": "Curry Verde Tailandés de Verduras",
+  "fichero": "Curry Verde Tailandés de Verduras.webp"
+ },
+ {
+  "id": "26cd3a61-70a7-4c0f-a18e-968d96959310",
+  "nombre": "Arroz con atún, maíz y tomate",
+  "fichero": "Arroz con atún, maíz y tomate.webp"
+ },
+ {
+  "id": "1efbfd58-30c0-4cd3-9dc8-af8f6925ae7b",
+  "nombre": "Patata asada rellena de atún y maíz",
+  "fichero": "Patata asada rellena de atún y maíz.webp"
+ },
+ {
+  "id": "b51ac796-cb0f-4774-bca8-0aa5e84d93b7",
+  "nombre": "Edamame salteado con ajo y guindilla",
+  "fichero": "Edamame salteado con ajo y guindilla.webp"
+ },
+ {
+  "id": "d016a13a-60a7-4568-8523-3b96aee9d3b3",
+  "nombre": "Tortilla de Gambas",
+  "fichero": "Tortilla de Gambas.webp"
+ },
+ {
+  "id": "d1ea8f1b-277a-4bcc-93f2-97c64c92a06e",
+  "nombre": "Merluza al horno con tomates",
+  "fichero": "Merluza al horno con tomates.webp"
+ },
+ {
+  "id": "65791dbe-7c21-42dc-9f9e-f439fe671010",
+  "nombre": "Sandwich Caprese Caliente",
+  "fichero": "Sandwich Caprese Caliente.webp"
+ },
+ {
+  "id": "7d16869e-555e-49c8-bf09-d53dad9ce41f",
+  "nombre": "Carrilleras de Cerdo al Pedro Ximénez",
+  "fichero": "Carrilleras de Cerdo al Pedro Ximénez.webp"
+ },
+ {
+  "id": "8fd24305-1abe-424e-b0de-8bb482b279a5",
+  "nombre": "Risotto Vegano de Champiñones",
+  "fichero": "Risotto Vegano de Champiñones.webp"
+ },
+ {
+  "id": "d370e918-193a-4743-9274-c79944a1fb1b",
+  "nombre": "Tempeh salteado con pimiento y cebolla",
+  "fichero": "Tempeh salteado con pimiento y cebolla.webp"
+ },
+ {
+  "id": "738ce0d3-730d-4a0c-a6f4-a455ea689c3a",
+  "nombre": "Revuelto de espinacas y champiñones",
+  "fichero": "Revuelto de espinacas y champiñones.webp"
+ },
+ {
+  "id": "40c2a83e-b75c-41e4-8aa0-66e188d005f1",
+  "nombre": "Tostada de aguacate y tomate",
+  "fichero": "Tostada de aguacate y tomate.webp"
+ },
+ {
+  "id": "f49ab10d-aeee-4eb4-a39a-d052bffe4778",
+  "nombre": "Ternera molida con pimiento y soja",
+  "fichero": "Ternera molida con pimiento y soja.webp"
+ },
+ {
+  "id": "462d4e65-00d3-4f18-9c56-50b87a59c0be",
+  "nombre": "Tacos de Coliflor Asada",
+  "fichero": "Tacos de Coliflor Asada.webp"
+ },
+ {
+  "id": "1ef48a95-c105-476d-a0ae-eee0b7f3955b",
+  "nombre": "Huevos Rotos con Jamón",
+  "fichero": "Huevos Rotos con Jamón.webp"
+ },
+ {
+  "id": "3e6f5937-14c6-4a74-8273-a5abf0f31ff6",
+  "nombre": "Espinacas congeladas con ajo y huevo pochado",
+  "fichero": "Espinacas congeladas con ajo y huevo pochado.webp"
+ },
+ {
+  "id": "c1fee4f9-ea99-49c2-9cd8-8a92666e0cc8",
+  "nombre": "Crema de Judías Blancas con Romero",
+  "fichero": "Crema de Judías Blancas con Romero.webp"
+ },
+ {
+  "id": "bba9e0e1-b590-49f8-a00b-df8fe013fd54",
+  "nombre": "Bowl teriyaki de pollo con arroz y brócoli",
+  "fichero": "Bowl teriyaki de pollo con arroz y brócoli.webp"
+ },
+ {
+  "id": "6b55e0cd-24a6-42c1-a788-46a107d3a597",
+  "nombre": "Guiso de ternera con patatas",
+  "fichero": "Guiso de ternera con patatas.webp"
+ },
+ {
+  "id": "70da7b9d-582d-4520-aac3-4eb76fb9727a",
+  "nombre": "Pollo en Salsa Verde",
+  "fichero": "Pollo en Salsa Verde.webp"
+ },
+ {
+  "id": "16d9bc89-4708-4961-9776-d75c60a423a6",
+  "nombre": "Stracciatella Italiana",
+  "fichero": "Stracciatella Italiana.webp"
+ },
+ {
+  "id": "94069e0f-0d40-4bdd-a0e4-ed0f61d252a6",
+  "nombre": "Pollo a la plancha con champiñones al ajillo",
+  "fichero": "Pollo a la plancha con champiñones al ajillo.webp"
+ },
+ {
+  "id": "2b7aa196-53b4-45c3-82e8-357b43f58dfc",
+  "nombre": "Patatas bravas con alioli casero",
+  "fichero": "Patatas bravas con alioli casero.webp"
+ },
+ {
+  "id": "7f662ee0-d9f9-49de-b6c5-033bf023a724",
+  "nombre": "Huevos al plato con tomate y pimiento",
+  "fichero": "Huevos al plato con tomate y pimiento.webp"
+ },
+ {
+  "id": "d82fc6f3-a200-405b-980b-11054a1ed905",
+  "nombre": "Lasaña Vegana de Verduras",
+  "fichero": "Lasaña Vegana de Verduras.webp"
+ },
+ {
+  "id": "5279d306-6e7a-480e-bff9-428d4c8650f2",
+  "nombre": "Pizza de Salami y Aceitunas Negras",
+  "fichero": "Pizza de Salami y Aceitunas Negras.webp"
+ },
+ {
+  "id": "83c0cf24-e1e1-4612-a0b5-c32e54eb9a36",
+  "nombre": "Pollo a la plancha con puré de patata y guisantes",
+  "fichero": "Pollo a la plancha con puré de patata y guisantes.webp"
+ },
+ {
+  "id": "8082f441-7e52-41fd-a99c-2f2980ba0744",
+  "nombre": "Meal-Prep de Pechugas Marinadas al Limón",
+  "fichero": "Meal-Prep de Pechugas Marinadas al Limón.webp"
+ },
+ {
+  "id": "406181d5-c5c9-4ba7-b415-7c71aa828d5c",
+  "nombre": "Rigatoni all'Amatriciana",
+  "fichero": "Rigatoni all'Amatriciana.webp"
+ },
+ {
+  "id": "4304b2cc-0936-43a6-bd05-5dee8205904b",
+  "nombre": "Ensalada templada de pasta con pollo, huevo y maíz",
+  "fichero": "Ensalada templada de pasta con pollo, huevo y maíz.webp"
+ },
+ {
+  "id": "a0ee7312-edb2-4156-b531-077acc575224",
+  "nombre": "Pavo picado con calabacín y tomate",
+  "fichero": "Pavo picado con calabacín y tomate.webp"
+ },
+ {
+  "id": "be009446-2576-4581-932b-5fde1345c8aa",
+  "nombre": "Pechuga de pollo a la plancha con espárragos",
+  "fichero": "Pechuga de pollo a la plancha con espárragos.webp"
+ },
+ {
+  "id": "d13b8fac-5c3e-40c9-9983-1c1dae2213b5",
+  "nombre": "Sopa de ajo castellana",
+  "fichero": "Sopa de ajo castellana.webp"
+ },
+ {
+  "id": "9dd16581-643d-431c-9362-db75f2b83707",
+  "nombre": "Revuelto de Espárragos Trigueros",
+  "fichero": "Revuelto de Espárragos Trigueros.webp"
+ },
+ {
+  "id": "e14ca271-10d1-4496-b09e-785b44e6abd7",
+  "nombre": "Crema Fría de Aguacate",
+  "fichero": "Crema Fría de Aguacate.webp"
+ },
+ {
+  "id": "de2f2eb8-a4fd-43f6-aab5-ae969da1865e",
+  "nombre": "Ensalada de Pollo con Aguacate",
+  "fichero": "Ensalada de Pollo con Aguacate.webp"
+ },
+ {
+  "id": "84b6ae51-e665-4028-9358-64f110c86038",
+  "nombre": "Espaguetis cremosos de aguacate",
+  "fichero": "Espaguetis cremosos de aguacate.webp"
+ },
+ {
+  "id": "92e90823-4e67-4804-8c45-6c455634b108",
+  "nombre": "Salteado de tofu con brócoli y salsa de soja",
+  "fichero": "Salteado de tofu con brócoli y salsa de soja.webp"
+ },
+ {
+  "id": "d981b66b-6f88-43d8-9a7e-250b12c2f9dd",
+  "nombre": "Empanada Gallega de Atún",
+  "fichero": "Empanada Gallega de Atún.webp"
+ },
+ {
+  "id": "bbb26ed8-a3d6-4dd2-b079-d67bf96885c5",
+  "nombre": "Pechuga a la Plancha con Limón",
+  "fichero": "Pechuga a la Plancha con Limón.webp"
+ },
+ {
+  "id": "74ca8136-8b49-449b-a54f-56eefa5e46e3",
+  "nombre": "Arroz basmati con curry de garbanzos express",
+  "fichero": "Arroz basmati con curry de garbanzos express.webp"
+ },
+ {
+  "id": "76b05381-003f-4a11-8107-e6170a0a3cfc",
+  "nombre": "Wok de verduras con huevo y salsa de soja",
+  "fichero": "Wok de verduras con huevo y salsa de soja.webp"
+ },
+ {
+  "id": "c9c8266d-1234-43f8-8fbc-3d23dd1b79e2",
+  "nombre": "Merluza en salsa verde rápida",
+  "fichero": "Merluza en salsa verde rápida.webp"
+ },
+ {
+  "id": "955270c7-eb84-4239-b562-ef2becb0dc7b",
+  "nombre": "Estofado de pavo con patata y zanahoria",
+  "fichero": "Estofado de pavo con patata y zanahoria.webp"
+ },
+ {
+  "id": "37ad67a6-d7c0-4981-a92b-212f51cc661c",
+  "nombre": "Tortitas Americanas de Arándanos",
+  "fichero": "Tortitas Americanas de Arándanos.webp"
+ },
+ {
+  "id": "4e98de1e-f43b-4224-995e-11179b576cc9",
+  "nombre": "Secreto ibérico a la plancha con limón",
+  "fichero": "Secreto ibérico a la plancha con limón.webp"
+ },
+ {
+  "id": "437a7b4d-178f-4da9-b6a2-8fec261170bc",
+  "nombre": "Pechuga de pollo con pimiento al horno rapido",
+  "fichero": "Pechuga de pollo con pimiento al horno rapido.webp"
+ },
+ {
+  "id": "f4f5fdee-f7f4-4bfe-ba73-09b10f74843e",
+  "nombre": "Lentejas salteadas con huevo y espinacas",
+  "fichero": "Lentejas salteadas con huevo y espinacas.webp"
+ },
+ {
+  "id": "86e4b0ca-83ae-4c77-a8da-bcac9177db4a",
+  "nombre": "Sandwich Mixto de Jamón y Queso",
+  "fichero": "Sandwich Mixto de Jamón y Queso.webp"
+ },
+ {
+  "id": "9b547b5f-c03e-4bf4-a416-ef6fe8efd1d9",
+  "nombre": "Ensalada de pollo a la plancha con tomate",
+  "fichero": "Ensalada de pollo a la plancha con tomate.webp"
+ },
+ {
+  "id": "3850e2d9-8ca5-4383-8430-0629db3a5258",
+  "nombre": "Pollo Salteado con Pimientos",
+  "fichero": "Pollo Salteado con Pimientos.webp"
+ },
+ {
+  "id": "310ff591-d9b1-475c-a883-564894d834aa",
+  "nombre": "Fish Curry de Coco",
+  "fichero": "Fish Curry de Coco.webp"
+ },
+ {
+  "id": "b20d83e7-a7a7-40ac-bd66-f3a1bc7a2d36",
+  "nombre": "Ensalada César con Pollo",
+  "fichero": "Ensalada César con Pollo.webp"
+ },
+ {
+  "id": "9a2ecc06-1265-4721-89ac-10afe5d1b6be",
+  "nombre": "Macarrones al microondas con tomate",
+  "fichero": "Macarrones al microondas con tomate.webp"
+ },
+ {
+  "id": "a9871a62-235f-4b47-ac3d-4df6d6019f98",
+  "nombre": "Espaguetis con gambas al ajillo",
+  "fichero": "Espaguetis con gambas al ajillo.webp"
+ },
+ {
+  "id": "4ba98370-a6af-467f-819e-34446b69eda2",
+  "nombre": "Espaguetis con atún y aceitunas",
+  "fichero": "Espaguetis con atún y aceitunas.webp"
+ },
+ {
+  "id": "e5c02de4-43ca-4bbb-bb96-89fc8972c7d9",
+  "nombre": "Merluza en salsa verde con almejas",
+  "fichero": "Merluza en salsa verde con almejas.webp"
+ },
+ {
+  "id": "d686a589-4459-449a-92a2-a825621e9998",
+  "nombre": "Cazuela de merluza con arroz y guisantes",
+  "fichero": "Cazuela de merluza con arroz y guisantes.webp"
+ },
+ {
+  "id": "495b389e-3d5c-4289-98bd-795fad60a20b",
+  "nombre": "Brownie en Taza de Microondas",
+  "fichero": "Brownie en Taza de Microondas.webp"
+ },
+ {
+  "id": "54999d78-00aa-4203-b562-7a1e0cb85b3f",
+  "nombre": "Solomillo al Whisky",
+  "fichero": "Solomillo al Whisky.webp"
+ },
+ {
+  "id": "0f09b7fc-aca9-41e1-a807-db69e4dd4e6b",
+  "nombre": "Arroz con pollo y tomate express",
+  "fichero": "Arroz con pollo y tomate express.webp"
+ },
+ {
+  "id": "85513ac5-172c-4ae4-b45d-bd1419ad14a8",
+  "nombre": "Natillas rápidas al microondas",
+  "fichero": "Natillas rápidas al microondas.webp"
+ },
+ {
+  "id": "4c9fdd7f-833e-4988-9c22-97bea758f9f1",
+  "nombre": "Arroz con garbanzos y chorizo",
+  "fichero": "Arroz con garbanzos y chorizo.webp"
+ },
+ {
+  "id": "2a809853-2df9-473a-bb5b-2431551d1ad7",
+  "nombre": "Tortitas de avena con crema de cacao",
+  "fichero": "Tortitas de avena con crema de cacao.webp"
+ },
+ {
+  "id": "c0b8b545-054b-41e5-8c0f-b02ae859ad8f",
+  "nombre": "Huevos al horno con tomate y chorizo magro",
+  "fichero": "Huevos al horno con tomate y chorizo magro.webp"
+ },
+ {
+  "id": "49e73e68-99ad-4abb-b545-14cb17fbfd30",
+  "nombre": "Tagliatelle con Setas",
+  "fichero": "Tagliatelle con Setas.webp"
+ },
+ {
+  "id": "e6dfcd07-3212-4d96-baf9-08abe1a29049",
+  "nombre": "Sopa de Miso con Tofu",
+  "fichero": "Sopa de Miso con Tofu.webp"
+ },
+ {
+  "id": "54c0801f-650f-4dd5-a7d6-50ffad837e60",
+  "nombre": "Filete de pechuga de pavo a la plancha con mostaza",
+  "fichero": "Filete de pechuga de pavo a la plancha con mostaza.webp"
+ },
+ {
+  "id": "ed9db016-1ed7-412a-b8b0-b65f0405c112",
+  "nombre": "Arroz con atun y verduras al microondas",
+  "fichero": "Arroz con atun y verduras al microondas.webp"
+ },
+ {
+  "id": "2510ccc2-a9fa-4ca7-ab84-55c195b920e3",
+  "nombre": "Pizza de Gambas y Aguacate",
+  "fichero": "Pizza de Gambas y Aguacate.webp"
+ },
+ {
+  "id": "6e937d4e-c0a4-4f54-8282-2ab8df54a4ab",
+  "nombre": "Batido de leche, avena y plátano",
+  "fichero": "Batido de leche, avena y plátano.webp"
+ },
+ {
+  "id": "c2288e6c-9bc9-4025-9e14-be1d2c7882b2",
+  "nombre": "Tostada de centeno con queso fresco y tomate",
+  "fichero": "Tostada de centeno con queso fresco y tomate.webp"
+ },
+ {
+  "id": "1eedafe4-5f18-42c6-bf2d-090e347c398f",
+  "nombre": "Ensalada de salmon ahumado con pepino",
+  "fichero": "Ensalada de salmon ahumado con pepino.webp"
+ },
+ {
+  "id": "45b9f9db-e9d1-4c15-bcc6-15fb569497b1",
+  "nombre": "Yogur griego con kiwi",
+  "fichero": "Yogur griego con kiwi.webp"
+ },
+ {
+  "id": "f5af0c6d-bc78-4f72-a411-68dcc9dc160b",
+  "nombre": "Yogur griego con granola y fresas",
+  "fichero": "Yogur griego con granola y fresas.webp"
+ },
+ {
+  "id": "cedb3f36-e684-4254-a1a5-dc10a27a2280",
+  "nombre": "Hummus clásico de garbanzos",
+  "fichero": "Hummus clásico de garbanzos.webp"
+ },
+ {
+  "id": "0d312140-6cab-46c6-955e-014b1d9ec061",
+  "nombre": "Batido de naranja y plátano con yogur",
+  "fichero": "Batido de naranja y plátano con yogur.webp"
+ },
+ {
+  "id": "04df900c-50a3-4c11-a7a8-0949294f8a35",
+  "nombre": "Batido de plátano y pera con yogur",
+  "fichero": "Batido de plátano y pera con yogur.webp"
+ },
+ {
+  "id": "d9859366-1b8b-4461-8773-e95ff91c9fed",
+  "nombre": "Patatas gajo crujientes al air fryer",
+  "fichero": "Patatas gajo crujientes al air fryer.webp"
+ },
+ {
+  "id": "08ae50fe-1a68-4a69-9f72-dd52bf348aef",
+  "nombre": "Garbanzos con arroz y pavo al curry",
+  "fichero": "Garbanzos con arroz y pavo al curry.webp"
+ },
+ {
+  "id": "29665a22-023a-499e-a104-10ba53477b86",
+  "nombre": "Huevos al horno con tomate y pimientos",
+  "fichero": "Huevos al horno con tomate y pimientos.webp"
+ },
+ {
+  "id": "5506fa44-2d52-4fc9-a4fa-a10e30530a5d",
+  "nombre": "Gambas a la plancha con limon",
+  "fichero": "Gambas a la plancha con limon.webp"
+ },
+ {
+  "id": "6469cc99-f234-4582-95e7-53e848cb0321",
+  "nombre": "Espinacas congeladas con garbanzos y comino",
+  "fichero": "Espinacas congeladas con garbanzos y comino.webp"
+ },
+ {
+  "id": "4ff7ff84-3bf7-407a-9554-4f5b61adf2a7",
+  "nombre": "Risotto alla Milanese",
+  "fichero": "Risotto alla Milanese.webp"
+ },
+ {
+  "id": "ccc74624-3ba5-4f44-9e83-db81f4bb34cd",
+  "nombre": "Pollo al curry con leche de coco y arroz basmati",
+  "fichero": "Pollo al curry con leche de coco y arroz basmati.webp"
+ },
+ {
+  "id": "1f70b922-f069-483f-affe-d585ab5fe2c1",
+  "nombre": "Guisantes congelados con arroz y curry",
+  "fichero": "Guisantes congelados con arroz y curry.webp"
+ },
+ {
+  "id": "fa1da485-f424-450d-8a48-e9b4c76116cc",
+  "nombre": "Tortilla de Verduras",
+  "fichero": "Tortilla de Verduras.webp"
+ },
+ {
+  "id": "e6e5717b-078c-4339-bd6a-e1c497f2c5c1",
+  "nombre": "Pasta rápida con tomate y atún",
+  "fichero": "Pasta rápida con tomate y atún.webp"
+ },
+ {
+  "id": "ea4b1a5b-1260-4a17-9cd2-ae14d852649d",
+  "nombre": "Gofre Salado de Jamón y Queso",
+  "fichero": "Gofre Salado de Jamón y Queso.webp"
+ },
+ {
+  "id": "714a493a-a442-4ee8-914a-c442fc32afa1",
+  "nombre": "Buddha Bowl con Tempeh",
+  "fichero": "Buddha Bowl con Tempeh.webp"
+ },
+ {
+  "id": "caa749a4-921e-4490-bd46-70536f7b3669",
+  "nombre": "Ensalada de quinoa con huevo y pepino",
+  "fichero": "Ensalada de quinoa con huevo y pepino.webp"
+ },
+ {
+  "id": "d6de5655-7ffd-4d85-a5a5-caabfe314f9a",
+  "nombre": "Lasaña congelada con ensalada verde",
+  "fichero": "Lasaña congelada con ensalada verde.webp"
+ },
+ {
+  "id": "218e09a4-7c3c-4f29-929a-7ec9f1fc7356",
+  "nombre": "Solomillo de cerdo con mostaza",
+  "fichero": "Solomillo de cerdo con mostaza.webp"
+ },
+ {
+  "id": "474f441a-7d37-4dd1-b6fd-2eaf121491fc",
+  "nombre": "Pollo al horno con patatas",
+  "fichero": "Pollo al horno con patatas.webp"
+ },
+ {
+  "id": "757ee5d3-a446-424a-8df0-011514202d3c",
+  "nombre": "Paella exprés de pollo y marisco",
+  "fichero": "Paella exprés de pollo y marisco.webp"
+ },
+ {
+  "id": "5835b07c-634f-4e8e-b667-024b646ca8e4",
+  "nombre": "Rollitos de Pollo con Espinacas",
+  "fichero": "Rollitos de Pollo con Espinacas.webp"
+ },
+ {
+  "id": "6aeb53d8-972e-4544-8588-59b1a8eb333b",
+  "nombre": "Macarrones con carne a la boloñesa",
+  "fichero": "Macarrones con carne a la boloñesa.webp"
+ },
+ {
+  "id": "6010e875-5aba-4d53-b0af-0f5205aa5123",
+  "nombre": "Salteado de edamame, atún y maíz",
+  "fichero": "Salteado de edamame, atún y maíz.webp"
+ },
+ {
+  "id": "084ece62-2ecb-4043-9dc5-3fc515824ac1",
+  "nombre": "Revuelto de champiñones y cebolla caramelizada",
+  "fichero": "Revuelto de champiñones y cebolla caramelizada.webp"
+ },
+ {
+  "id": "cb6aaa31-859f-4013-bc1f-c1f189c12b3d",
+  "nombre": "Pizza margarita congelada con rúcula y tomate fresco",
+  "fichero": "Pizza margarita congelada con rúcula y tomate fresco.webp"
+ },
+ {
+  "id": "b44b5bca-ce93-46b4-8c05-7a155337daf7",
+  "nombre": "Frittata Italiana de Verduras",
+  "fichero": "Frittata Italiana de Verduras.webp"
+ },
+ {
+  "id": "f7e50f29-3f4a-411b-a374-0c165692a3d9",
+  "nombre": "Wok de verduras congeladas con pollo y soja",
+  "fichero": "Wok de verduras congeladas con pollo y soja.webp"
+ },
+ {
+  "id": "035f3245-12c5-4fa2-8d0a-2a9a993314b9",
+  "nombre": "Sándwich vegetal con queso fundido",
+  "fichero": "Sándwich vegetal con queso fundido.webp"
+ },
+ {
+  "id": "a199a383-d1a6-45d3-a94e-030585ff9caf",
+  "nombre": "Tiras de Pollo con Salsa BBQ",
+  "fichero": "Tiras de Pollo con Salsa BBQ.webp"
+ },
+ {
+  "id": "2d842add-e917-462c-b977-c44703399609",
+  "nombre": "Pechugas Rellenas de Jamón y Queso",
+  "fichero": "Pechugas Rellenas de Jamón y Queso.webp"
+ },
+ {
+  "id": "a349d5bb-ff11-4dbf-bb65-792dcb4b9641",
+  "nombre": "Pasta Integral con Atún",
+  "fichero": "Pasta Integral con Atún.webp"
+ },
+ {
+  "id": "0156bad4-c627-4e1b-81e2-fd2e2ac4863f",
+  "nombre": "Porridge de avena con plátano",
+  "fichero": "Porridge de avena con plátano.webp"
+ },
+ {
+  "id": "6a7be1db-4c29-4bcc-b4d7-3716b80b744d",
+  "nombre": "Pasta con tomate frito y queso rallado",
+  "fichero": "Pasta con tomate frito y queso rallado.webp"
+ },
+ {
+  "id": "b1695fe2-547b-4f9a-ad54-2306d0a35eba",
+  "nombre": "Fideos de arroz con pollo y verduras estilo asiático",
+  "fichero": "Fideos de arroz con pollo y verduras estilo asiático.webp"
+ },
+ {
+  "id": "8d23dc76-81fd-43f9-8a34-10e71ba676fc",
+  "nombre": "Pavo con brocoli y salsa de soja al wok",
+  "fichero": "Pavo con brocoli y salsa de soja al wok.webp"
+ },
+ {
+  "id": "6b4cfd9f-5226-43d1-93d7-b366605dd329",
+  "nombre": "Pollo al curry rápido con leche de coco",
+  "fichero": "Pollo al curry rápido con leche de coco.webp"
+ },
+ {
+  "id": "2dab3851-3517-4cc8-ae53-d82308d629f9",
+  "nombre": "Brochetas de Pollo con Verduras",
+  "fichero": "Brochetas de Pollo con Verduras.webp"
+ },
+ {
+  "id": "24559c83-e5d9-4269-9e52-92bdc9027409",
+  "nombre": "Patata rellena de pollo y champiñones",
+  "fichero": "Patata rellena de pollo y champiñones.webp"
+ },
+ {
+  "id": "898370a9-ca1b-431a-92dd-f0d1082a4d1a",
+  "nombre": "Brócoli al vapor en microondas",
+  "fichero": "Brócoli al vapor en microondas.webp"
+ },
+ {
+  "id": "1d037ed4-0770-4cd3-9e69-9d76e2285eed",
+  "nombre": "Tostadas francesas con plátano",
+  "fichero": "Tostadas francesas con plátano.webp"
+ },
+ {
+  "id": "2af7c778-6ac3-4ef0-ba55-c94ace119fef",
+  "nombre": "Arroz caldoso de pollo y verduras",
+  "fichero": "Arroz caldoso de pollo y verduras.webp"
+ },
+ {
+  "id": "8d65c79d-8516-4d87-92f8-053ed2b09e20",
+  "nombre": "Shakshuka sencilla",
+  "fichero": "Shakshuka sencilla.webp"
+ },
+ {
+  "id": "a763c972-9277-472f-9aea-a093b7219765",
+  "nombre": "Shakshuka Clásica",
+  "fichero": "Shakshuka Clásica.webp"
+ },
+ {
+  "id": "4b0d4e16-978f-4438-90ea-834f3bb456af",
+  "nombre": "Arroz caldoso con pollo y pimiento verde",
+  "fichero": "Arroz caldoso con pollo y pimiento verde.webp"
+ },
+ {
+  "id": "187fa0d6-516b-47a9-8e7e-b979c22c4987",
+  "nombre": "Arroz con champiñones y ajo",
+  "fichero": "Arroz con champiñones y ajo.webp"
+ },
+ {
+  "id": "78cb8d5f-530a-4b2e-8864-3f444b8c4a82",
+  "nombre": "Huevos revueltos con tomate",
+  "fichero": "Huevos revueltos con tomate.webp"
+ },
+ {
+  "id": "61fc5d74-325c-42f0-8c7f-14c4f86b845e",
+  "nombre": "Pasta con Gambas al Ajillo",
+  "fichero": "Pasta con Gambas al Ajillo.webp"
+ },
+ {
+  "id": "0baec3d0-8765-4992-a506-7e8f9747cf12",
+  "nombre": "Tortilla francesa con espinacas y queso feta",
+  "fichero": "Tortilla francesa con espinacas y queso feta.webp"
+ },
+ {
+  "id": "7b621595-9b06-48f7-b701-3000be0e5bb5",
+  "nombre": "Entrecot con Salsa de Pimienta y Pimiento Salteado",
+  "fichero": "Entrecot con Salsa de Pimienta y Pimiento Salteado.webp"
+ },
+ {
+  "id": "6e99a90e-1ad9-4fd5-a2d8-ee2698d93e0f",
+  "nombre": "Cuscús especiado con garbanzos",
+  "fichero": "Cuscús especiado con garbanzos.webp"
+ },
+ {
+  "id": "83ccd468-8823-4bbc-bed9-048c82d7272f",
+  "nombre": "Huevos Rellenos Gratinados",
+  "fichero": "Huevos Rellenos Gratinados.webp"
+ },
+ {
+  "id": "7e8d4aa0-ed76-4b12-a97a-5a8d5c9e3eee",
+  "nombre": "Quesadilla Mexicana de Sandwichera",
+  "fichero": "Quesadilla Mexicana de Sandwichera.webp"
+ },
+ {
+  "id": "ed4fc1de-3436-4b05-bbe3-471123d35e62",
+  "nombre": "Crema de calabaza y zanahoria",
+  "fichero": "Crema de calabaza y zanahoria.webp"
+ },
+ {
+  "id": "a2508f1b-abb1-4eca-ac9a-0ca866ed02c5",
+  "nombre": "Quesadilla de Pollo",
+  "fichero": "Quesadilla de Pollo.webp"
+ },
+ {
+  "id": "e1fd3366-7c09-4975-b6da-8393193c195b",
+  "nombre": "Arroz con huevo revuelto y cebolla",
+  "fichero": "Arroz con huevo revuelto y cebolla.webp"
+ },
+ {
+  "id": "7ddc8662-d589-4728-b18b-b7271a501d53",
+  "nombre": "Gyozas al Vapor con Cerdo",
+  "fichero": "Gyozas al Vapor con Cerdo.webp"
+ },
+ {
+  "id": "454413b7-d388-47e5-947a-e156bf1e2c87",
+  "nombre": "Fajitas de Pollo",
+  "fichero": "Fajitas de Pollo.webp"
+ },
+ {
+  "id": "5509b38d-b426-458c-8d5a-98879da14887",
+  "nombre": "Bocadillo de pollo y tomate",
+  "fichero": "Bocadillo de pollo y tomate.webp"
+ },
+ {
+  "id": "8ec930c9-59c2-4ba0-8eb5-7c20d1927d80",
+  "nombre": "Crema de Castañas con Panceta",
+  "fichero": "Crema de Castañas con Panceta.webp"
+ },
+ {
+  "id": "3cd9788b-3baa-4f19-ac9e-969f7b493626",
+  "nombre": "Mollette con Tomate y Jamón",
+  "fichero": "Mollette con Tomate y Jamón.webp"
+ },
+ {
+  "id": "1bf3cbc2-b791-4998-9fb9-45b2893333af",
+  "nombre": "Sándwich mixto clásico",
+  "fichero": "Sándwich mixto clásico.webp"
+ },
+ {
+  "id": "850f350a-10f7-478c-a285-0858ad9748fc",
+  "nombre": "Pollo con Champiñones en Crema",
+  "fichero": "Pollo con Champiñones en Crema.webp"
+ },
+ {
+  "id": "a4f521e1-f756-4c76-a615-5925ff16f7dc",
+  "nombre": "Huevos Revueltos con Setas",
+  "fichero": "Huevos Revueltos con Setas.webp"
+ },
+ {
+  "id": "76ae2adb-4905-4622-88c4-fc3e0a50e253",
+  "nombre": "Salmón ahumado con aguacate y tostadas integrales",
+  "fichero": "Salmón ahumado con aguacate y tostadas integrales.webp"
+ },
+ {
+  "id": "1c14d64a-cc9f-4031-82d3-0eec5eb89e56",
+  "nombre": "Pechuga de pollo rellena de espinacas y queso",
+  "fichero": "Pechuga de pollo rellena de espinacas y queso.webp"
+ },
+ {
+  "id": "65ef9ddd-44a4-4e98-9236-1f32c3cddd2c",
+  "nombre": "Huevos revueltos con pimiento y calabacín",
+  "fichero": "Huevos revueltos con pimiento y calabacín.webp"
+ },
+ {
+  "id": "37f0e5af-0b1a-42e7-951a-e8c355ffee04",
+  "nombre": "Hot Dog en Sandwichera",
+  "fichero": "Hot Dog en Sandwichera.webp"
+ },
+ {
+  "id": "2ec2377b-241f-4365-adef-2babb9f62ad8",
+  "nombre": "Pavo con Quinoa y Espárragos",
+  "fichero": "Pavo con Quinoa y Espárragos.webp"
+ },
+ {
+  "id": "7ad6e787-530d-40e8-8460-d38a4e3bfc23",
+  "nombre": "Pechuga de Pollo con Brócoli al Vapor",
+  "fichero": "Pechuga de Pollo con Brócoli al Vapor.webp"
+ },
+ {
+  "id": "be8ad003-b342-44ee-b85c-284f9357ad93",
+  "nombre": "Tabulé de Cuscús",
+  "fichero": "Tabulé de Cuscús.webp"
+ },
+ {
+  "id": "d3d54650-def7-4e04-89d0-575d24c57a1b",
+  "nombre": "Tiras de ternera al pimentón con cebolla",
+  "fichero": "Tiras de ternera al pimentón con cebolla.webp"
+ },
+ {
+  "id": "1e10c5bd-3403-460b-a49d-3810e9cf9dc9",
+  "nombre": "Bowls de Proteínas con Quinoa",
+  "fichero": "Bowls de Proteínas con Quinoa.webp"
+ },
+ {
+  "id": "0449a280-3ea9-4d0e-a7e1-f33ab19f6432",
+  "nombre": "Atún fresco a la plancha con pimiento verde",
+  "fichero": "Atún fresco a la plancha con pimiento verde.webp"
+ },
+ {
+  "id": "e65f5105-cda9-4841-a131-99be1c600f1d",
+  "nombre": "Ensalada Mediterránea de Arroz",
+  "fichero": "Ensalada Mediterránea de Arroz.webp"
+ },
+ {
+  "id": "2d2875ca-ffcf-49c6-aee4-ed3b5c850b4d",
+  "nombre": "Taco de Pollo Suave",
+  "fichero": "Taco de Pollo Suave.webp"
+ },
+ {
+  "id": "e0c32f9e-c530-4bb6-b280-ca2409047407",
+  "nombre": "Pollo Kung Pao",
+  "fichero": "Pollo Kung Pao.webp"
+ },
+ {
+  "id": "34c99d73-0efa-4fbf-9123-d791db7bc37c",
+  "nombre": "Macedonia de pera, manzana verde y uvas blancas",
+  "fichero": "Macedonia de pera, manzana verde y uvas blancas.webp"
+ },
+ {
+  "id": "0e81265e-0559-4163-826c-08e228c27c4d",
+  "nombre": "Batido de kiwi y manzana con yogur",
+  "fichero": "Batido de kiwi y manzana con yogur.webp"
+ },
+ {
+  "id": "1dc6985e-4714-4910-a0b2-9e242dc73a81",
+  "nombre": "Chili Vegano Tres Legumbres",
+  "fichero": "Chili Vegano Tres Legumbres.webp"
+ },
+ {
+  "id": "c864fdd0-cca2-45d1-857f-a6a2328e9dfe",
+  "nombre": "Bocata de Pimiento y Atún",
+  "fichero": "Bocata de Pimiento y Atún.webp"
+ },
+ {
+  "id": "53e20585-e089-4f71-8455-a815b9f03a4a",
+  "nombre": "Yogur griego con muesli",
+  "fichero": "Yogur griego con muesli.webp"
+ },
+ {
+  "id": "72be5805-c8c1-4426-aac3-be40754d3a8a",
+  "nombre": "Bocata Vegetariano con Aguacate",
+  "fichero": "Bocata Vegetariano con Aguacate.webp"
+ },
+ {
+  "id": "2211f0af-7d11-46f0-9cd3-cff258170861",
+  "nombre": "Yogur griego con manzana verde",
+  "fichero": "Yogur griego con manzana verde.webp"
+ },
+ {
+  "id": "dea28bb9-4584-48e8-9521-26ab7d8955d9",
+  "nombre": "Ajoblanco Malagueño",
+  "fichero": "Ajoblanco Malagueño.webp"
+ },
+ {
+  "id": "d7d202c3-c83d-4119-a1ae-fa7e9e37c3bc",
+  "nombre": "Batido de kiwi y plátano con leche",
+  "fichero": "Batido de kiwi y plátano con leche.webp"
+ },
+ {
+  "id": "ff029282-d5b0-4053-b86a-9abab6dd8285",
+  "nombre": "Espárragos al air fryer con limón",
+  "fichero": "Espárragos al air fryer con limón.webp"
+ },
+ {
+  "id": "640b2bc4-1374-4ff3-913d-8c9e3a1de19a",
+  "nombre": "Ensalada Griega",
+  "fichero": "Ensalada Griega.webp"
+ },
+ {
+  "id": "39590afd-f8a9-4646-b5b0-a5f06f1a19af",
+  "nombre": "Tostada de pan integral con salmón ahumado y aguacate",
+  "fichero": "Tostada de pan integral con salmón ahumado y aguacate.webp"
+ },
+ {
+  "id": "2e5a0ccd-1ab1-4982-8276-3eaade8636d7",
+  "nombre": "Ensalada Waldorf",
+  "fichero": "Ensalada Waldorf.webp"
+ },
+ {
+  "id": "3f80356f-7c7a-4cc9-be0e-24cb98cb6aed",
+  "nombre": "Batido de verde de espinacas y plátano con yogur",
+  "fichero": "Batido de verde de espinacas y plátano con yogur.webp"
+ },
+ {
+  "id": "f5dbfe45-44ba-48eb-8ca4-cb473311ff16",
+  "nombre": "Ensalada Caprese con Mozzarella",
+  "fichero": "Ensalada Caprese con Mozzarella.webp"
+ },
+ {
+  "id": "bdc51adf-7aa3-4f77-ba06-fd727a410253",
+  "nombre": "Prep de Ensaladas en Tarro Mason Jar",
+  "fichero": "Prep de Ensaladas en Tarro Mason Jar.webp"
+ },
+ {
+  "id": "ca2b235a-518c-419a-be64-ab40df633172",
+  "nombre": "Crema de Calabacín con Queso Fresco",
+  "fichero": "Crema de Calabacín con Queso Fresco.webp"
+ },
+ {
+  "id": "68bfe688-22ff-4316-a9db-bbfd3e7d5bdd",
+  "nombre": "Pollo salteado con cebolla y comino",
+  "fichero": "Pollo salteado con cebolla y comino.webp"
+ },
+ {
+  "id": "33125d3e-c898-45ad-b99a-08ea5528bf99",
+  "nombre": "Arroz a la jardinera con pollo y guisantes",
+  "fichero": "Arroz a la jardinera con pollo y guisantes.webp"
+ },
+ {
+  "id": "f72bce56-4996-4e1a-a8d7-4fc06d48e0b9",
+  "nombre": "Bowl de garbanzos, pollo y tahini",
+  "fichero": "Bowl de garbanzos, pollo y tahini.webp"
+ },
+ {
+  "id": "af47d9c3-72bc-40f8-8eb6-cac3e57138c8",
+  "nombre": "Ensalada Niçoise con Atún",
+  "fichero": "Ensalada Niçoise con Atún.webp"
+ },
+ {
+  "id": "8d16284a-81d4-4575-8161-e65e6201a991",
+  "nombre": "Salteado de pollo con fideos de arroz y brócoli",
+  "fichero": "Salteado de pollo con fideos de arroz y brócoli.webp"
+ }
+]
