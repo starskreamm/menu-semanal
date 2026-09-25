@@ -140,8 +140,7 @@ function App(){
     fetch("recetas.json").then(function(r){ if(!r.ok)throw new Error("No se pudo cargar recetas.json"); return r.text(); })
       .then(function(t){ var arr=parseTolerante(t); if(!arr.length)throw new Error("recetas.json vacío o ilegible");
         fetch("fotos/equivalencias.json?v="+Date.now()).then(function(r){ return r.ok?r.json():[]; }).then(function(eq){
-          var byId={}; (eq||[]).forEach(function(e){ if(e&&e.id&&e.fichero) byId[String(e.id)]="fotos/"+e.fichero; });
-          var n=0; arr.forEach(function(r){ if(!r.imagenPropia && byId[String(r.id)]){ r.imagenPropia=byId[String(r.id)]; n++; } });
+          var byId={}; (eq||[]).forEach(function(e){ if(e&&e.id&&e.fichero) byId[String(e.id)]=("fotos/"+e.fichero).normalize("NFD"); });          var n=0; arr.forEach(function(r){ if(!r.imagenPropia && byId[String(r.id)]){ r.imagenPropia=byId[String(r.id)]; n++; } });
           console.log("[CocineRoy] fotos aplicadas:", n);
           setRecetas(arr.map(mapReceta));
         }).catch(function(){ setRecetas(arr.map(mapReceta)); });
